@@ -1,0 +1,1784 @@
+State,Locality,LID,Sector,Org_Type,Organisation
+Al Gezira,Madani El Kobra (Greater Wad Madani),30,Health,UN,WHO
+Blue Nile,EL Roseires,107,FSL,International NGO,ADRA
+Blue Nile,Geissan,109,FSL,International NGO,ADRA
+Blue Nile,Al Tadamon,108,WASH,International NGO,ADRA
+Blue Nile,Bau,104,WASH,International NGO,ADRA
+Blue Nile,El Damazine,105,WASH,International NGO,ADRA
+Blue Nile,EL Roseires,107,WASH,International NGO,ADRA
+Blue Nile,Geissan,109,WASH,International NGO,ADRA
+Blue Nile,Al Tadamon,108,FSL,UN,FAO
+Blue Nile,Bau,104,FSL,UN,FAO
+Blue Nile,El Damazine,105,FSL,UN,FAO
+Blue Nile,EL Roseires,107,FSL,UN,FAO
+Blue Nile,Geissan,109,FSL,UN,FAO
+Blue Nile,El Damazine,105,Education,International NGO,IRW
+Blue Nile,EL Roseires,107,Education,International NGO,IRW
+Blue Nile,El Kurmuk,106,FSL,International NGO,IRW
+Blue Nile,Geissan,109,FSL,International NGO,IRW
+Blue Nile,El Damazine,105,Protection,International NGO,IRW
+Blue Nile,EL Roseires,107,Protection,International NGO,IRW
+Blue Nile,El Damazine,105,WASH,International NGO,IRW
+Blue Nile,EL Roseires,107,WASH,International NGO,IRW
+Blue Nile,Bau,104,FSL,International NGO,PA
+Blue Nile,EL Roseires,107,FSL,International NGO,PA
+Blue Nile,Geissan,109,FSL,International NGO,PA
+Blue Nile,Bau,104,Education,International NGO,SC-S
+Blue Nile,Al Tadamon,108,Protection,International NGO,SC-S
+Blue Nile,Bau,104,Protection,International NGO,SC-S
+Blue Nile,El Damazine,105,Protection,International NGO,SC-S
+Blue Nile,El Kurmuk,106,Protection,International NGO,SC-S
+Blue Nile,Geissan,109,Protection,International NGO,SC-S
+Blue Nile,EL Roseires,107,Health,UN,UNFPA
+Blue Nile,Al Tadamon,108,Education,UN,UNICEF
+Blue Nile,Bau,104,Education,UN,UNICEF
+Blue Nile,El Damazine,105,Education,UN,UNICEF
+Blue Nile,El Kurmuk,106,Education,UN,UNICEF
+Blue Nile,EL Roseires,107,Education,UN,UNICEF
+Blue Nile,Geissan,109,Education,UN,UNICEF
+Blue Nile,Al Tadamon,108,Health,UN,UNICEF
+Blue Nile,Bau,104,Health,UN,UNICEF
+Blue Nile,El Damazine,105,Health,UN,UNICEF
+Blue Nile,El Kurmuk,106,Health,UN,UNICEF
+Blue Nile,EL Roseires,107,Health,UN,UNICEF
+Blue Nile,Geissan,109,Health,UN,UNICEF
+Blue Nile,Al Tadamon,108,Nutrition,UN,UNICEF
+Blue Nile,Bau,104,Nutrition,UN,UNICEF
+Blue Nile,El Damazine,105,Nutrition,UN,UNICEF
+Blue Nile,El Kurmuk,106,Nutrition,UN,UNICEF
+Blue Nile,EL Roseires,107,Nutrition,UN,UNICEF
+Blue Nile,Geissan,109,Nutrition,UN,UNICEF
+Blue Nile,Al Tadamon,108,Protection,UN,UNICEF
+Blue Nile,Bau,104,Protection,UN,UNICEF
+Blue Nile,El Damazine,105,Protection,UN,UNICEF
+Blue Nile,El Damazine,105,Protection,UN,UNICEF
+Blue Nile,El Kurmuk,106,Protection,UN,UNICEF
+Blue Nile,Geissan,109,Protection,UN,UNICEF
+Blue Nile,Al Tadamon,108,WASH,UN,UNICEF
+Blue Nile,Bau,104,WASH,UN,UNICEF
+Blue Nile,El Damazine,105,WASH,UN,UNICEF
+Blue Nile,El Kurmuk,106,WASH,UN,UNICEF
+Blue Nile,EL Roseires,107,WASH,UN,UNICEF
+Blue Nile,Geissan,109,WASH,UN,UNICEF
+Blue Nile,Al Tadamon,108,FSL,UN,WFP
+Blue Nile,Bau,104,FSL,UN,WFP
+Blue Nile,El Kurmuk,106,FSL,UN,WFP
+Blue Nile,EL Roseires,107,FSL,UN,WFP
+Blue Nile,Geissan,109,FSL,UN,WFP
+Blue Nile,Al Tadamon,108,Health,UN,WHO
+Blue Nile,Bau,104,Health,UN,WHO
+Blue Nile,El Damazine,105,Health,UN,WHO
+Blue Nile,El Kurmuk,106,Health,UN,WHO
+Blue Nile,EL Roseires,107,Health,UN,WHO
+Blue Nile,Geissan,109,Health,UN,WHO
+Blue Nile,Bau,104,Education,International NGO,WVI
+Blue Nile,El Damazine,105,Education,International NGO,WVI
+Blue Nile,EL Roseires,107,Education,International NGO,WVI
+Blue Nile,Geissan,109,Education,International NGO,WVI
+Blue Nile,Bau,104,FSL,International NGO,WVI
+Blue Nile,Geissan,109,FSL,International NGO,WVI
+Blue Nile,El Damazine,105,Health,International NGO,WVI
+Blue Nile,EL Roseires,107,Health,International NGO,WVI
+Blue Nile,Geissan,109,Health,International NGO,WVI
+Blue Nile,Bau,104,Nutrition,International NGO,WVI
+Blue Nile,El Kurmuk,106,Nutrition,International NGO,WVI
+Blue Nile,EL Roseires,107,Nutrition,International NGO,WVI
+Blue Nile,Bau,104,Protection,International NGO,WVI
+Blue Nile,El Damazine,105,Protection,International NGO,WVI
+Blue Nile,EL Roseires,107,Protection,International NGO,WVI
+Blue Nile,Geissan,109,Protection,International NGO,WVI
+Blue Nile,Bau,104,WASH,International NGO,WVI
+Blue Nile,Geissan,109,WASH,International NGO,WVI
+Central Darfur,Umm Dukhun,135,Nutrition,National NGO,Alfajer
+Central Darfur,Umm Dukhun,135,WASH,National NGO,Alfajer
+Central Darfur,Wadi Salih,137,FSL,National NGO,Alrahma
+Central Darfur,Zalingei,138,FSL,National NGO,Alrahma
+Central Darfur,Zalingei,138,Education,National NGO,Areebo
+Central Darfur,Bindisi,112,Education,International NGO,CRS
+Central Darfur,Mukjar,130,Education,International NGO,CRS
+Central Darfur,Wadi Salih,137,Education,International NGO,CRS
+Central Darfur,Azum,110,FSL,International NGO,CRS
+Central Darfur,Bindisi,112,FSL,International NGO,CRS
+Central Darfur,Mukjar,130,FSL,International NGO,CRS
+Central Darfur,Umm Dukhun,135,FSL,International NGO,CRS
+Central Darfur,Wadi Salih,137,FSL,International NGO,CRS
+Central Darfur,Zalingei,138,FSL,International NGO,CRS
+Central Darfur,Mukjar,130,NFI,International NGO,CRS
+Central Darfur,Mukjar,130,WASH,International NGO,CRS
+Central Darfur,Nertiti,131,Education,International NGO,DRC
+Central Darfur,Azum,110,FSL,International NGO,DRC
+Central Darfur,Nertiti,131,FSL,International NGO,DRC
+Central Darfur,Wadi Salih,137,FSL,International NGO,DRC
+Central Darfur,Zalingei,138,FSL,International NGO,DRC
+Central Darfur,Nertiti,131,NFI,International NGO,DRC
+Central Darfur,Zalingei,138,NFI,International NGO,DRC
+Central Darfur,Nertiti,131,WASH,International NGO,DRC
+Central Darfur,Azum,110,FSL,UN,FAO
+Central Darfur,Bindisi,112,FSL,UN,FAO
+Central Darfur,Mukjar,130,FSL,UN,FAO
+Central Darfur,Nertiti,131,FSL,UN,FAO
+Central Darfur,Umm Dukhun,135,FSL,UN,FAO
+Central Darfur,Wadi Salih,137,FSL,UN,FAO
+Central Darfur,Zalingei,138,FSL,UN,FAO
+Central Darfur,Azum,110,FSL,National NGO,HIH
+Central Darfur,Mukjar,130,FSL,National NGO,HIH
+Central Darfur,Nertiti,131,FSL,National NGO,HIH
+Central Darfur,Wadi Salih,137,FSL,National NGO,HIH
+Central Darfur,Zalingei,138,FSL,National NGO,HIH
+Central Darfur,Mukjar,130,Health,International NGO,IMC
+Central Darfur,Umm Dukhun,135,Health,International NGO,IMC
+Central Darfur,Wadi Salih,137,Health,International NGO,IMC
+Central Darfur,Zalingei,138,Health,International NGO,IMC
+Central Darfur,Mukjar,130,Nutrition,International NGO,IMC
+Central Darfur,Umm Dukhun,135,Nutrition,International NGO,IMC
+Central Darfur,Wadi Salih,137,Nutrition,International NGO,IMC
+Central Darfur,Zalingei,138,Nutrition,International NGO,IMC
+Central Darfur,Mukjar,130,WASH,International NGO,IMC
+Central Darfur,Nertiti,131,WASH,International NGO,IMC
+Central Darfur,Umm Dukhun,135,WASH,International NGO,IMC
+Central Darfur,Zalingei,138,WASH,International NGO,IMC
+Central Darfur,Wadi Salih,137,Education,International NGO,INTERSOS
+Central Darfur,Zalingei,138,Education,International NGO,INTERSOS
+Central Darfur,Nertiti,131,Education,International NGO,IRW
+Central Darfur,Nertiti,131,Health,International NGO,IRW
+Central Darfur,Nertiti,131,WASH,International NGO,IRW
+Central Darfur,Nertiti,131,FSL,National NGO,Labena
+Central Darfur,Zalingei,138,FSL,National NGO,Labena
+Central Darfur,Bindisi,112,Protection,National NGO,Labena
+Central Darfur,Mukjar,130,Protection,National NGO,Labena
+Central Darfur,Azum,110,WASH,National NGO,Labena
+Central Darfur,Zalingei,138,WASH,National NGO,Labena
+Central Darfur,Azum,110,FSL,National NGO,Mubadiroon
+Central Darfur,Nertiti,131,FSL,National NGO,Mubadiroon
+Central Darfur,Wadi Salih,137,FSL,National NGO,Mubadiroon
+Central Darfur,Zalingei,138,FSL,National NGO,Mubadiroon
+Central Darfur,Azum,110,FSL,International NGO,NCA
+Central Darfur,Wadi Salih,137,FSL,International NGO,NCA
+Central Darfur,Zalingei,138,FSL,International NGO,NCA
+Central Darfur,Zalingei,138,Health,International NGO,NCA
+Central Darfur,Wadi Salih,137,NFI,International NGO,NCA
+Central Darfur,Zalingei,138,NFI,International NGO,NCA
+Central Darfur,Wadi Salih,137,Nutrition,International NGO,NCA
+Central Darfur,Zalingei,138,Nutrition,International NGO,NCA
+Central Darfur,Nertiti,131,WASH,International NGO,NCA
+Central Darfur,Wadi Salih,137,WASH,International NGO,NCA
+Central Darfur,Zalingei,138,WASH,International NGO,NCA
+Central Darfur,Azum,110,FSL,International NGO,NEF
+Central Darfur,Mukjar,130,FSL,International NGO,NEF
+Central Darfur,Nertiti,131,FSL,International NGO,NEF
+Central Darfur,Wadi Salih,137,FSL,International NGO,NEF
+Central Darfur,Zalingei,138,FSL,International NGO,NEF
+Central Darfur,Nertiti,131,WASH,International NGO,NEF
+Central Darfur,Bindisi,112,CCS,UN,OCHA
+Central Darfur,Zalingei,138,CCS,UN,OCHA
+Central Darfur,Bindisi,112,LET,UN,OCHA
+Central Darfur,Azum,110,Education,International NGO,SC-S
+Central Darfur,Wadi Salih,137,Education,International NGO,SC-S
+Central Darfur,Zalingei,138,Education,International NGO,SC-S
+Central Darfur,Azum,110,FSL,International NGO,SC-S
+Central Darfur,Umm Dukhun,135,FSL,International NGO,SC-S
+Central Darfur,Azum,110,Health,International NGO,SC-S
+Central Darfur,Wadi Salih,137,Health,International NGO,SC-S
+Central Darfur,Zalingei,138,Health,International NGO,SC-S
+Central Darfur,Azum,110,Nutrition,International NGO,SC-S
+Central Darfur,Wadi Salih,137,Nutrition,International NGO,SC-S
+Central Darfur,Zalingei,138,Nutrition,International NGO,SC-S
+Central Darfur,Azum,110,Protection,International NGO,SC-S
+Central Darfur,Zalingei,138,Protection,International NGO,SC-S
+Central Darfur,Azum,110,WASH,International NGO,SC-S
+Central Darfur,Bindisi,112,WASH,International NGO,SC-S
+Central Darfur,Wadi Salih,137,WASH,International NGO,SC-S
+Central Darfur,Bindisi,112,FSL,National NGO,SDO
+Central Darfur,Mukjar,130,FSL,National NGO,SDO
+Central Darfur,Umm Dukhun,135,FSL,National NGO,SDO
+Central Darfur,Wadi Salih,137,FSL,National NGO,SDO
+Central Darfur,Azum,110,FSL,National NGO,SOHA
+Central Darfur,Mukjar,130,FSL,National NGO,SOHA
+Central Darfur,Wadi Salih,137,FSL,National NGO,SOHA
+Central Darfur,Bindisi,112,FSL,National NGO,SRCS
+Central Darfur,Mukjar,130,FSL,National NGO,SRCS
+Central Darfur,Umm Dukhun,135,FSL,National NGO,SRCS
+Central Darfur,Wadi Salih,137,FSL,National NGO,SRCS
+Central Darfur,Zalingei,138,FSL,National NGO,SRCS
+Central Darfur,Bindisi,112,Health,National NGO,SRCS
+Central Darfur,Nertiti,131,Health,National NGO,SRCS
+Central Darfur,Bindisi,112,Nutrition,National NGO,SRCS
+Central Darfur,Mukjar,130,WASH,National NGO,SRCS
+Central Darfur,Mukjar,130,Education,National NGO,TDO
+Central Darfur,Bindisi,112,FSL,National NGO,TDO
+Central Darfur,Mukjar,130,FSL,National NGO,TDO
+Central Darfur,Umm Dukhun,135,FSL,National NGO,TDO
+Central Darfur,Wadi Salih,137,FSL,National NGO,TDO
+Central Darfur,Mukjar,130,Nutrition,National NGO,TDO
+Central Darfur,Mukjar,130,WASH,National NGO,TDO
+Central Darfur,Umm Dukhun,135,NFI,International NGO,TF
+Central Darfur,Nertiti,131,Nutrition,International NGO,TF
+Central Darfur,Umm Dukhun,135,Nutrition,International NGO,TF
+Central Darfur,Bindisi,112,Education,International NGO,TGH
+Central Darfur,Bindisi,112,FSL,International NGO,TGH
+Central Darfur,Umm Dukhun,135,FSL,International NGO,TGH
+Central Darfur,Bindisi,112,NFI,International NGO,TGH
+Central Darfur,Umm Dukhun,135,NFI,International NGO,TGH
+Central Darfur,Bindisi,112,Protection,International NGO,TGH
+Central Darfur,Bindisi,112,WASH,International NGO,TGH
+Central Darfur,Umm Dukhun,135,WASH,International NGO,TGH
+Central Darfur,Azum,110,Health,UN,UNFPA
+Central Darfur,Bindisi,112,Health,UN,UNFPA
+Central Darfur,Mukjar,130,Health,UN,UNFPA
+Central Darfur,Nertiti,131,Health,UN,UNFPA
+Central Darfur,Umm Dukhun,135,Health,UN,UNFPA
+Central Darfur,Wadi Salih,137,Health,UN,UNFPA
+Central Darfur,Zalingei,138,Health,UN,UNFPA
+Central Darfur,Azum,110,Protection,UN,UNFPA
+Central Darfur,Bindisi,112,Protection,UN,UNFPA
+Central Darfur,Mukjar,130,Protection,UN,UNFPA
+Central Darfur,Nertiti,131,Protection,UN,UNFPA
+Central Darfur,Umm Dukhun,135,Protection,UN,UNFPA
+Central Darfur,Wadi Salih,137,Protection,UN,UNFPA
+Central Darfur,Zalingei,138,Protection,UN,UNFPA
+Central Darfur,Bindisi,112,FSL,UN,UNHCR
+Central Darfur,Azum,110,NFI,UN,UNHCR
+Central Darfur,Bindisi,112,NFI,UN,UNHCR
+Central Darfur,Mukjar,130,NFI,UN,UNHCR
+Central Darfur,Nertiti,131,NFI,UN,UNHCR
+Central Darfur,Umm Dukhun,135,NFI,UN,UNHCR
+Central Darfur,Wadi Salih,137,NFI,UN,UNHCR
+Central Darfur,Zalingei,138,NFI,UN,UNHCR
+Central Darfur,Azum,110,Protection,UN,UNHCR
+Central Darfur,Bindisi,112,Protection,UN,UNHCR
+Central Darfur,Mukjar,130,Protection,UN,UNHCR
+Central Darfur,Nertiti,131,Protection,UN,UNHCR
+Central Darfur,Umm Dukhun,135,Protection,UN,UNHCR
+Central Darfur,Wadi Salih,137,Protection,UN,UNHCR
+Central Darfur,Zalingei,138,Protection,UN,UNHCR
+Central Darfur,Azum,110,RMS,UN,UNHCR
+Central Darfur,Mukjar,130,RMS,UN,UNHCR
+Central Darfur,Umm Dukhun,135,RMS,UN,UNHCR
+Central Darfur,Wadi Salih,137,RMS,UN,UNHCR
+Central Darfur,Zalingei,138,RMS,UN,UNHCR
+Central Darfur,Azum,110,RRR,UN,UNHCR
+Central Darfur,Bindisi,112,RRR,UN,UNHCR
+Central Darfur,Mukjar,130,RRR,UN,UNHCR
+Central Darfur,Nertiti,131,RRR,UN,UNHCR
+Central Darfur,Umm Dukhun,135,RRR,UN,UNHCR
+Central Darfur,Wadi Salih,137,RRR,UN,UNHCR
+Central Darfur,Zalingei,138,RRR,UN,UNHCR
+Central Darfur,Azum,110,Education,UN,UNICEF
+Central Darfur,Bindisi,112,Education,UN,UNICEF
+Central Darfur,Mukjar,130,Education,UN,UNICEF
+Central Darfur,Nertiti,131,Education,UN,UNICEF
+Central Darfur,Wadi Salih,137,Education,UN,UNICEF
+Central Darfur,Zalingei,138,Education,UN,UNICEF
+Central Darfur,Azum,110,Health,UN,UNICEF
+Central Darfur,Bindisi,112,Health,UN,UNICEF
+Central Darfur,Mukjar,130,Health,UN,UNICEF
+Central Darfur,Nertiti,131,Health,UN,UNICEF
+Central Darfur,Umm Dukhun,135,Health,UN,UNICEF
+Central Darfur,Wadi Salih,137,Health,UN,UNICEF
+Central Darfur,Zalingei,138,Health,UN,UNICEF
+Central Darfur,Azum,110,Nutrition,UN,UNICEF
+Central Darfur,Bindisi,112,Nutrition,UN,UNICEF
+Central Darfur,Mukjar,130,Nutrition,UN,UNICEF
+Central Darfur,Nertiti,131,Nutrition,UN,UNICEF
+Central Darfur,Umm Dukhun,135,Nutrition,UN,UNICEF
+Central Darfur,Wadi Salih,137,Nutrition,UN,UNICEF
+Central Darfur,Zalingei,138,Nutrition,UN,UNICEF
+Central Darfur,Azum,110,Protection,UN,UNICEF
+Central Darfur,Bindisi,112,Protection,UN,UNICEF
+Central Darfur,Mukjar,130,Protection,UN,UNICEF
+Central Darfur,Nertiti,131,Protection,UN,UNICEF
+Central Darfur,Umm Dukhun,135,Protection,UN,UNICEF
+Central Darfur,Wadi Salih,137,Protection,UN,UNICEF
+Central Darfur,Zalingei,138,Protection,UN,UNICEF
+Central Darfur,Azum,110,WASH,UN,UNICEF
+Central Darfur,Bindisi,112,WASH,UN,UNICEF
+Central Darfur,Mukjar,130,WASH,UN,UNICEF
+Central Darfur,Nertiti,131,WASH,UN,UNICEF
+Central Darfur,Rokoro,132,WASH,UN,UNICEF
+Central Darfur,Umm Dukhun,135,WASH,UN,UNICEF
+Central Darfur,Wadi Salih,137,WASH,UN,UNICEF
+Central Darfur,Zalingei,138,WASH,UN,UNICEF
+Central Darfur,Azum,110,WASH,National NGO,WES
+Central Darfur,Bindisi,112,WASH,National NGO,WES
+Central Darfur,Mukjar,130,WASH,National NGO,WES
+Central Darfur,Nertiti,131,WASH,National NGO,WES
+Central Darfur,Rokoro,132,WASH,National NGO,WES
+Central Darfur,Umm Dukhun,135,WASH,National NGO,WES
+Central Darfur,Wadi Salih,137,WASH,National NGO,WES
+Central Darfur,Zalingei,138,WASH,National NGO,WES
+Central Darfur,Bindisi,112,CCS,UN,WFP
+Central Darfur,Azum,110,Education,UN,WFP
+Central Darfur,Bindisi,112,Education,UN,WFP
+Central Darfur,Mukjar,130,Education,UN,WFP
+Central Darfur,Nertiti,131,Education,UN,WFP
+Central Darfur,Wadi Salih,137,Education,UN,WFP
+Central Darfur,Zalingei,138,Education,UN,WFP
+Central Darfur,Azum,110,FSL,UN,WFP
+Central Darfur,Bindisi,112,FSL,UN,WFP
+Central Darfur,Mukjar,130,FSL,UN,WFP
+Central Darfur,Nertiti,131,FSL,UN,WFP
+Central Darfur,Umm Dukhun,135,FSL,UN,WFP
+Central Darfur,Wadi Salih,137,FSL,UN,WFP
+Central Darfur,Zalingei,138,FSL,UN,WFP
+Central Darfur,Azum,110,LET,UN,WFP
+Central Darfur,Bindisi,112,LET,UN,WFP
+Central Darfur,Mukjar,130,LET,UN,WFP
+Central Darfur,Umm Dukhun,135,LET,UN,WFP
+Central Darfur,Wadi Salih,137,LET,UN,WFP
+Central Darfur,Zalingei,138,LET,UN,WFP
+Central Darfur,Azum,110,Nutrition,UN,WFP
+Central Darfur,Mukjar,130,Nutrition,UN,WFP
+Central Darfur,Nertiti,131,Nutrition,UN,WFP
+Central Darfur,Umm Dukhun,135,Nutrition,UN,WFP
+Central Darfur,Wadi Salih,137,Nutrition,UN,WFP
+Central Darfur,Zalingei,138,Nutrition,UN,WFP
+Central Darfur,Azum,110,Health,UN,WHO
+Central Darfur,Bindisi,112,Health,UN,WHO
+Central Darfur,Mukjar,130,Health,UN,WHO
+Central Darfur,Nertiti,131,Health,UN,WHO
+Central Darfur,Umm Dukhun,135,Health,UN,WHO
+Central Darfur,Wadi Salih,137,Health,UN,WHO
+Central Darfur,Zalingei,138,Health,UN,WHO
+Central Darfur,Zalingei,138,FSL,National NGO,Zakia Center CBO
+East Darfur,Adila,139,Education,National NGO,Almassar 
+East Darfur,Bahr El Arab,160,Education,National NGO,Almassar 
+East Darfur,El Ferdous,152,Education,National NGO,Almassar 
+East Darfur,Bahr El Arab,160,FSL,National NGO,Almassar 
+East Darfur,El Ferdous,152,FSL,National NGO,Almassar 
+East Darfur,Ed Daein,142,RRR,National NGO,AOSCD
+East Darfur,Ed Daein,142,WASH,National NGO,AOSCD
+East Darfur,Abu Karinka,155,Health,International NGO,ARC
+East Darfur,Ed Daein,142,Health,International NGO,ARC
+East Darfur,Yassin,165,Health,International NGO,ARC
+East Darfur,Adila,139,,International NGO,ARC
+East Darfur,Bahr El Arab,160,FSL,National NGO,Attamas
+East Darfur,El Ferdous,152,FSL,National NGO,Attamas
+East Darfur,Bahr El Arab,160,WASH,National NGO,Attamas
+East Darfur,El Ferdous,152,WASH,National NGO,Attamas
+East Darfur,Ed Daein,142,FSL,International NGO,IRD
+East Darfur,Adila,139,FSL,National NGO,Merciful Hands
+East Darfur,Ed Daein,142,CCS,UN,OCHA
+East Darfur,Adila,139,WASH,National NGO,SRCS
+East Darfur,Ed Daein,142,Nutrition,National NGO,SSO
+East Darfur,Ed Daein,142,RRR,National NGO,SSO
+East Darfur,El Ferdous,152,FSL,International NGO,TF
+East Darfur,Yassin,165,NFI,International NGO,TF
+East Darfur,Ed Daein,142,Nutrition,International NGO,TF
+East Darfur,El Ferdous,152,Nutrition,International NGO,TF
+East Darfur,Ed Daein,142,WASH,International NGO,TF
+East Darfur,El Ferdous,152,WASH,International NGO,TF
+East Darfur,Yassin,165,WASH,International NGO,TF
+East Darfur,Adila,139,Education,International NGO,UMCOR
+East Darfur,Ed Daein,142,Education,International NGO,UMCOR
+East Darfur,Adila,139,FSL,International NGO,UMCOR
+East Darfur,Ed Daein,142,NFI,International NGO,UMCOR
+East Darfur,Adila,139,WASH,International NGO,UMCOR
+East Darfur,Ed Daein,142,WASH,International NGO,UMCOR
+East Darfur,Ed Daein,142,Nutrition,UN,UNICEF
+East Darfur,Ed Daein,142,Nutrition,UN,WFP
+East Darfur,Adila,139,WASH,UN,WFP
+East Darfur,Ed Daein,142,Education,National NGO,White Hand
+East Darfur,Yassin,165,Education,National NGO,White Hand
+East Darfur,Ed Daein,142,NFI,National NGO,White Hand
+East Darfur,Yassin,165,NFI,National NGO,White Hand
+East Darfur,Ed Daein,142,WASH,National NGO,White Hand
+East Darfur,Yassin,165,WASH,National NGO,White Hand
+East Darfur,Ed Daein,142,Health,UN,WHO
+East Darfur,Ed Daein,142,Education,International NGO,ZOA
+East Darfur,Ed Daein,142,FSL,International NGO,ZOA
+East Darfur,Ed Daein,142,WASH,International NGO,ZOA
+Gedaref,Gedaref,80,FSL,UN,FAO
+Gedaref,Gedaref,80,Protection,National NGO,JASMAR
+Gedaref,Gedaref,80,FSL,National NGO,SRCS
+Gedaref,Gedaref,80,Health,National NGO,SRCS
+Gedaref,Gedaref,80,Nutrition,National NGO,SRCS
+Gedaref,Gedaref,80,Protection,National NGO,TACO
+Gedaref,Gedaref,80,Health,UN,UNFPA
+Gedaref,Gedaref,80,Protection,UN,UNFPA
+Gedaref,Gedaref,80,Protection,UN,UNHCR
+Gedaref,Gedaref,80,RMS,UN,UNHCR
+Gedaref,Gedaref,80,Education,National NGO,ZENAB
+Gedaref,Gedaref,80,FSL,National NGO,ZENAB
+Gedaref,Gedaref,80,Health,National NGO,ZENAB
+Gedaref,Gedaref,80,Nutrition,National NGO,ZENAB
+Kassala,Kassala,53,FSL,National NGO,Alshamal
+Kassala,Kassala,53,Protection,National NGO,CDF
+Kassala,Kassala,53,FSL,National NGO,Delta
+Kassala,Kassala,53,FSL,UN,FAO
+Kassala,Kassala,53,FSL,National NGO,FPDO
+Kassala,Kassala,53,Mine Action,National NGO,FPDO
+Kassala,Kassala,53,FSL,National NGO,JASMAR
+Kassala,Kassala,53,Health,National NGO,JASMAR
+Kassala,Kassala,53,Mine Action,National NGO,JASMAR
+Kassala,Kassala,53,Protection,National NGO,JASMAR
+Kassala,Kassala,53,Mine Action,National NGO,NDU
+Kassala,Kassala,53,Health,National NGO,PANCARE
+Kassala,Kassala,53,Education,National NGO,Roots
+Kassala,Kassala,53,Education,National NGO,SOLO
+Kassala,Kassala,53,FSL,National NGO,SOLO
+Kassala,Kassala,53,Education,National NGO,SORD
+Kassala,Kassala,53,FSL,National NGO,SORD
+Kassala,Kassala,53,Health,National NGO,SRCS
+Kassala,Kassala,53,NFI,National NGO,SRCS
+Kassala,Kassala,53,Nutrition,National NGO,SRCS
+Kassala,Kassala,53,WASH,National NGO,SRCS
+Kassala,Kassala,53,Health,National NGO,Talawiet
+Kassala,Kassala,53,Nutrition,National NGO,Talawiet
+Kassala,Kassala,53,FSL,National NGO,Training
+Kassala,Kassala,53,Education,National NGO,Turath
+Kassala,Kassala,53,Health,National NGO,Turath
+Kassala,Kassala,53,RRR,UN,UNDP
+Kassala,Kassala,53,,UN,UNDSS
+Kassala,Kassala,53,Health,UN,UNFPA
+Kassala,Kassala,53,Protection,UN,UNFPA
+Kassala,Kassala,53,Protection,UN,UNHCR
+Kassala,Kassala,53,RMS,UN,UNHCR
+Kassala,Kassala,53,Education,UN,UNICEF
+Kassala,Kassala,53,Nutrition,UN,UNICEF
+Kassala,Kassala,53,WASH,UN,UNICEF
+Kassala,Kassala,53,,UN,UNIDO
+Kassala,Kassala,53,FSL,National NGO,Vonchers
+Kassala,Kassala,53,FSL,UN,WFP
+Kassala,Kassala,53,Health,UN,WHO
+Kassala,Kassala,53,Protection,National NGO,YAB
+Khartoum,Khartoum,7,Mine Action,National NGO,Alamal
+Khartoum,Khartoum,7,Nutrition,National NGO,Almanar
+Khartoum,Khartoum,7,Protection,National NGO,Almanar
+Khartoum,Khartoum,7,Education,National NGO,Alrahma
+Khartoum,Khartoum,7,Education,National NGO,AMAL
+Khartoum,Khartoum,7,Protection,National NGO,AMAL
+Khartoum,Khartoum,7,Protection,National NGO,Baladna
+Khartoum,Khartoum,7,FSL,UN,FAO
+Khartoum,Khartoum,7,Mine Action,National NGO,FPDO
+Khartoum,Khartoum,7,,International NGO,IFAD
+Khartoum,Khartoum,7,,International NGO,ILO
+Khartoum,Khartoum,7,,International NGO,IMF
+Khartoum,Khartoum,7,CCS,UN,IOM
+Khartoum,Khartoum,7,Education,National NGO,Local Action
+Khartoum,Khartoum,7,Protection,National NGO,Local Action
+Khartoum,Khartoum,7,FSL,National NGO,Nuba
+Khartoum,Khartoum,7,CCS,UN,OCHA
+Khartoum,Khartoum,7,Education,National NGO,PBA
+Khartoum,Khartoum,7,Mine Action,National NGO,Rufaid
+Khartoum,Khartoum,7,Protection,National NGO,Seema Center
+Khartoum,Khartoum,7,Education,National NGO,SOED
+Khartoum,Khartoum,7,WASH,National NGO,SRCS
+Khartoum,Khartoum,7,Protection,National NGO,TACO
+Khartoum,Khartoum,7,,UN,UNAIDS
+Khartoum,Khartoum,7,RRR,UN,UNDP
+Khartoum,Khartoum,7,,UN,UNDSS
+Khartoum,Khartoum,7,,UN,UNEP
+Khartoum,Khartoum,7,,UN,UNESCO
+Khartoum,Khartoum,7,Health,UN,UNFPA
+Khartoum,Khartoum,7,Protection,UN,UNFPA
+Khartoum,Khartoum,7,,UN,UNHABITAT
+Khartoum,Khartoum,7,Protection,UN,UNHCR
+Khartoum,Khartoum,7,RMS,UN,UNHCR
+Khartoum,Khartoum,7,,UN,UNIC
+Khartoum,Khartoum,7,Education,UN,UNICEF
+Khartoum,Khartoum,7,Nutrition,UN,UNICEF
+Khartoum,Khartoum,7,WASH,UN,UNICEF
+Khartoum,Khartoum,7,,UN,UNIDO
+Khartoum,Khartoum,7,,UN,UNOPS
+Khartoum,Khartoum,7,,UN,UNWomen
+Khartoum,Khartoum,7,,International NGO,WB
+Khartoum,Khartoum,7,FSL,UN,WFP
+Khartoum,Khartoum,7,Health,UN,WHO
+North Darfur,El Fasher ,114,FSL,International NGO,AHA
+North Darfur,El Sireaf,118,Health,National NGO,AM
+North Darfur,Kebkabiya,124,Health,National NGO,AM
+North Darfur,Kutum,128,Health,National NGO,AM
+North Darfur,El Sireaf,118,Nutrition,National NGO,AM
+North Darfur,Kebkabiya,124,Nutrition,National NGO,AM
+North Darfur,Kebkabiya,124,Protection,National NGO,AM
+North Darfur,El Fasher ,114,Health,National NGO,ANHAR
+North Darfur,El Sireaf,118,Health,National NGO,ANHAR
+North Darfur,El Taweisha,119,Health,National NGO,ANHAR
+North Darfur,Mellit,129,Health,National NGO,ANHAR
+North Darfur,El Sireaf,118,Nutrition,National NGO,ANHAR
+North Darfur,El Fasher ,114,WASH,National NGO,ANHAR
+North Darfur,El Sireaf,118,WASH,National NGO,ANHAR
+North Darfur,Mellit,129,WASH,National NGO,ANHAR
+North Darfur,Saraf Omra,133,WASH,National NGO,ANHAR
+North Darfur,El Sireaf,118,Education,National NGO,AOPD
+North Darfur,Kebkabiya,124,Education,National NGO,AOPD
+North Darfur,Saraf Omra,133,Education,National NGO,AOPD
+North Darfur,El Sireaf,118,WASH,National NGO,AOPD
+North Darfur,Ailliet,169,Health,National NGO,CDO
+North Darfur,Ailliet,169,Nutrition,National NGO,CDO
+North Darfur,El Taweisha,119,Nutrition,National NGO,CDO
+North Darfur,El Malha,117,FSL,International NGO,COOPI
+North Darfur,El Taweisha,119,FSL,International NGO,COOPI
+North Darfur,Mellit,129,FSL,International NGO,COOPI
+North Darfur,Um Buru,120,FSL,International NGO,COOPI
+North Darfur,Umm Keddada,136,FSL,International NGO,COOPI
+North Darfur,El Malha,117,WASH,International NGO,COOPI
+North Darfur,Mellit,129,WASH,International NGO,COOPI
+North Darfur,Um Buru,120,WASH,International NGO,COOPI
+North Darfur,Umm Keddada,136,WASH,International NGO,COOPI
+North Darfur,Mellit,129,FSL,National NGO,CRLRS
+North Darfur,El Fasher ,114,NFI,International NGO,CRS
+North Darfur,El Fasher ,114,NFI,National NGO,DDA
+North Darfur,Dar El Salam,113,WASH,National NGO,DDA
+North Darfur,Dar El Salam,113,FSL,National NGO,DDRA
+North Darfur,El Fasher ,114,FSL,National NGO,DDRA
+North Darfur,Saraf Omra,133,FSL,National NGO,DDRA
+North Darfur,Tawilla,170,FSL,National NGO,DDRA
+North Darfur,El Fasher ,114,FSL,National NGO,DRA
+North Darfur,El Malha,117,FSL,National NGO,DRA
+North Darfur,Kebkabiya,124,FSL,National NGO,DRA
+North Darfur,Kutum,128,FSL,National NGO,DRA
+North Darfur,Umm Keddada,136,FSL,National NGO,DRA
+North Darfur,El Fasher ,114,FSL,UN,FAO
+North Darfur,El Taweisha,119,FSL,UN,FAO
+North Darfur,Kalimendo,126,FSL,UN,FAO
+North Darfur,Kebkabiya,124,FSL,UN,FAO
+North Darfur,Kutum,128,FSL,UN,FAO
+North Darfur,Saraf Omra,133,FSL,UN,FAO
+North Darfur,Tawilla,170,Protection,National NGO,FPDO
+North Darfur,El Fasher ,114,FSL,National NGO,FRDN
+North Darfur,El Fasher ,114,Nutrition,National NGO,FRDN
+North Darfur,Mellit,129,Health,International NGO,GERMAN RC
+North Darfur,Mellit,129,Nutrition,International NGO,GERMAN RC
+North Darfur,Kutum,128,Education,International NGO,GOAL
+North Darfur,Kutum,128,FSL,International NGO,GOAL
+North Darfur,Kutum,128,Health,International NGO,GOAL
+North Darfur,Kutum,128,Nutrition,International NGO,GOAL
+North Darfur,Kutum,128,WASH,International NGO,GOAL
+North Darfur,Dar El Salam,113,Health,National NGO,HAD
+North Darfur,El Fasher ,114,Health,National NGO,HAD
+North Darfur,El Sireaf,118,Health,National NGO,HAD
+North Darfur,El Fasher ,114,Nutrition,National NGO,HAD
+North Darfur,El Sireaf,118,Nutrition,National NGO,HAD
+North Darfur,Dar El Salam,113,Education,National NGO,HRCSN
+North Darfur,Ailliet,169,Education,National NGO,HSIO
+North Darfur,El Kuma,116,Education,National NGO,HSIO
+North Darfur,Umm Keddada,136,Education,National NGO,HSIO
+North Darfur,El Kuma,116,NFI,National NGO,HSIO
+North Darfur,Mellit,129,NFI,National NGO,HSIO
+North Darfur,Umm Keddada,136,NFI,National NGO,HSIO
+North Darfur,Dar El Salam,113,CCS,UN,IOM
+North Darfur,El Fasher ,114,CCS,UN,IOM
+North Darfur,Kutum,128,CCS,UN,IOM
+North Darfur,Mellit,129,CCS,UN,IOM
+North Darfur,Saraf Omra,133,CCS,UN,IOM
+North Darfur,Um Buru,120,CCS,UN,IOM
+North Darfur,Umm Keddada,136,CCS,UN,IOM
+North Darfur,Umm Keddada,136,Protection,UN,IOM
+North Darfur,Ailliet,169,RRR,UN,IOM
+North Darfur,Dar El Salam,113,RRR,UN,IOM
+North Darfur,El Fasher ,114,RRR,UN,IOM
+North Darfur,El Kuma,116,RRR,UN,IOM
+North Darfur,El Malha,117,RRR,UN,IOM
+North Darfur,El Sireaf,118,RRR,UN,IOM
+North Darfur,El Taweisha,119,RRR,UN,IOM
+North Darfur,Kalimendo,126,RRR,UN,IOM
+North Darfur,Kebkabiya,124,RRR,UN,IOM
+North Darfur,Kutum,128,RRR,UN,IOM
+North Darfur,Mellit,129,RRR,UN,IOM
+North Darfur,Saraf Omra,133,RRR,UN,IOM
+North Darfur,Tawilla,170,RRR,UN,IOM
+North Darfur,Um Buru,120,RRR,UN,IOM
+North Darfur,Umm Keddada,136,RRR,UN,IOM
+North Darfur,El Fasher ,114,WASH,UN,IOM
+North Darfur,Mellit,129,Education,International NGO,JRS
+North Darfur,Kutum,128,FSL,National NGO,KAEDS
+North Darfur,El Fasher ,114,Health,National NGO,KPHF
+North Darfur,El Fasher ,114,Nutrition,National NGO,KPHF
+North Darfur,El Sireaf,118,FSL,National NGO,KSCS
+North Darfur,Kebkabiya,124,FSL,National NGO,KSCS
+North Darfur,Saraf Omra,133,FSL,National NGO,KSCS
+North Darfur,El Sireaf,118,NFI,National NGO,KSCS
+North Darfur,Kebkabiya,124,NFI,National NGO,KSCS
+North Darfur,Saraf Omra,133,NFI,National NGO,KSCS
+North Darfur,Kebkabiya,124,Protection,National NGO,KSCS
+North Darfur,Kebkabiya,124,WASH,National NGO,KSCS
+North Darfur,Saraf Omra,133,WASH,National NGO,KSCS
+North Darfur,El Fasher ,114,Health,International NGO,MSF-E
+North Darfur,El Sireaf,118,Health,International NGO,MSF-E
+North Darfur,Tawilla,170,Health,International NGO,MSF-E
+North Darfur,Um Buru,120,Health,International NGO,MSF-E
+North Darfur,El Sireaf,118,Nutrition,International NGO,MSF-E
+North Darfur,Um Buru,120,Nutrition,International NGO,MSF-E
+North Darfur,Kornoi,168,FSL,National NGO,NOHS
+North Darfur,Um Buru,120,FSL,National NGO,NOHS
+North Darfur,Kornoi,168,NFI,National NGO,NOHS
+North Darfur,Um Buru,120,NFI,National NGO,NOHS
+North Darfur,El Sireaf,118,FSL,International NGO,Oxfam A
+North Darfur,Kebkabiya,124,FSL,International NGO,Oxfam A
+North Darfur,El Fasher ,114,NFI,International NGO,Oxfam A
+North Darfur,Kebkabiya,124,NFI,International NGO,Oxfam A
+North Darfur,Saraf Omra,133,NFI,International NGO,Oxfam A
+North Darfur,El Fasher ,114,WASH,International NGO,Oxfam A
+North Darfur,Kebkabiya,124,WASH,International NGO,Oxfam A
+North Darfur,El Fasher ,114,FSL,International NGO,PA
+North Darfur,El Kuma,116,FSL,International NGO,PA
+North Darfur,Kalimendo,126,FSL,International NGO,PA
+North Darfur,El Fasher ,114,CCS,International NGO,Plan Sudan
+North Darfur,El Fasher ,114,Education,International NGO,Plan Sudan
+North Darfur,El Fasher ,114,NFI,International NGO,Plan Sudan
+North Darfur,El Fasher ,114,WASH,International NGO,Plan Sudan
+North Darfur,Tawilla,170,WASH,International NGO,Plan Sudan
+North Darfur,El Fasher ,114,CCS,International NGO,RED R
+North Darfur,Dar El Salam,113,FSL,International NGO,RI
+North Darfur,Kalimendo,126,FSL,International NGO,RI
+North Darfur,El Fasher ,114,Health,International NGO,RI
+North Darfur,El Malha,117,Health,International NGO,RI
+North Darfur,El Fasher ,114,Nutrition,International NGO,RI
+North Darfur,El Fasher ,114,CCS,National NGO,SAG
+North Darfur,El Kuma,116,Education,National NGO,SAG
+North Darfur,Kutum,128,Education,National NGO,SAG
+North Darfur,Umm Keddada,136,Education,National NGO,SAG
+North Darfur,El Fasher ,114,FSL,National NGO,SAG
+North Darfur,El Kuma,116,FSL,National NGO,SAG
+North Darfur,Kutum,128,FSL,National NGO,SAG
+North Darfur,Umm Keddada,136,FSL,National NGO,SAG
+North Darfur,Ailliet,169,NFI,National NGO,SAG
+North Darfur,El Fasher ,114,NFI,National NGO,SAG
+North Darfur,El Kuma,116,NFI,National NGO,SAG
+North Darfur,Kutum,128,NFI,National NGO,SAG
+North Darfur,Mellit,129,NFI,National NGO,SAG
+North Darfur,Tawilla,170,NFI,National NGO,SAG
+North Darfur,Umm Keddada,136,NFI,National NGO,SAG
+North Darfur,El Kuma,116,Protection,National NGO,SAG
+North Darfur,Kutum,128,Protection,National NGO,SAG
+North Darfur,Mellit,129,Protection,National NGO,SAG
+North Darfur,Umm Keddada,136,Protection,National NGO,SAG
+North Darfur,El Kuma,116,WASH,National NGO,SAG
+North Darfur,Umm Keddada,136,WASH,National NGO,SAG
+North Darfur,Tawilla,170,Education,International NGO,SC-S
+North Darfur,Tawilla,170,FSL,National NGO,SEKAR
+North Darfur,Tawilla,170,Health,National NGO,SEKAR
+North Darfur,Tawilla,170,WASH,National NGO,SHAKIR
+North Darfur,Tawilla,170,Health,GOV,SMOH
+North Darfur,Dar El Salam,113,Education,National NGO,SOLO
+North Darfur,El Fasher ,114,FSL,National NGO,SRC
+North Darfur,El Kuma,116,FSL,National NGO,SRC
+North Darfur,El Sireaf,118,FSL,National NGO,SRC
+North Darfur,Kebkabiya,124,FSL,National NGO,SRC
+North Darfur,Saraf Omra,133,FSL,National NGO,SRC
+North Darfur,Tawilla,170,FSL,National NGO,SRC
+North Darfur,Mellit,129,Health,National NGO,SRC
+North Darfur,El Fasher ,114,NFI,National NGO,SRC
+North Darfur,El Kuma,116,NFI,National NGO,SRC
+North Darfur,El Sireaf,118,NFI,National NGO,SRC
+North Darfur,Saraf Omra,133,NFI,National NGO,SRC
+North Darfur,El Kuma,116,WASH,National NGO,SRC
+North Darfur,Mellit,129,WASH,National NGO,SRC
+North Darfur,Tawilla,170,NFI,National NGO,SRCS
+North Darfur,Ailliet,169,FSL,National NGO,UKRDP
+North Darfur,Umm Keddada,136,FSL,National NGO,UKRDP
+North Darfur,Ailliet,169,Nutrition,National NGO,UKRDP
+North Darfur,Umm Keddada,136,Nutrition,National NGO,UKRDP
+North Darfur,El Fasher ,114,RRR,UN,UNDP
+North Darfur,El Fasher ,114,Protection,UN,UNFPA
+North Darfur,El Kuma,116,Protection,UN,UNFPA
+North Darfur,El Sireaf,118,Protection,UN,UNFPA
+North Darfur,Tawilla,170,Protection,UN,UNFPA
+North Darfur,El Fasher ,114,NFI,UN,UNHCR
+North Darfur,El Fasher ,114,Protection,UN,UNHCR
+North Darfur,El Sireaf,118,Protection,UN,UNHCR
+North Darfur,El Fasher ,114,RRR,UN,UNHCR
+North Darfur,Ailliet,169,Nutrition,UN,UNICEF
+North Darfur,El Fasher ,114,Nutrition,UN,UNICEF
+North Darfur,El Fasher ,114,Protection,UN,UNICEF
+North Darfur,Mellit,129,Protection,UN,UNICEF
+North Darfur,Ailliet,169,WASH,UN,UNICEF
+North Darfur,El Sireaf,118,WASH,UN,UNICEF
+North Darfur,Kalimendo,126,FSL,National NGO,VNRD
+North Darfur,El Fasher ,114,FSL,National NGO,WDA 
+North Darfur,El Kuma,116,FSL,National NGO,WDA 
+North Darfur,Dar El Salam,113,Health,National NGO,WDA 
+North Darfur,El Kuma,116,Health,National NGO,WDA 
+North Darfur,Kebkabiya,124,Education,UN,WFP
+North Darfur,Kutum,128,Education,UN,WFP
+North Darfur,Ailliet,169,FSL,UN,WFP
+North Darfur,El Fasher ,114,FSL,UN,WFP
+North Darfur,El Sireaf,118,FSL,UN,WFP
+North Darfur,Kebkabiya,124,FSL,UN,WFP
+North Darfur,Kutum,128,FSL,UN,WFP
+North Darfur,Ailliet,169,Health,UN,WHO
+North Darfur,Ailliet,169,Health,UN,WHO
+North Darfur,El Fasher ,114,Health,UN,WHO
+North Darfur,El Taweisha,119,Health,UN,WHO
+North Darfur,Kutum,128,Health,UN,WHO
+North Darfur,Saraf Omra,133,Health,UN,WHO
+North Darfur,Kalimendo,126,Education,International NGO,ZOA
+North Darfur,Kalimendo,126,FSL,International NGO,ZOA
+North Darfur,Kalimendo,126,WASH,International NGO,ZOA
+North Darfur,El Fasher ,114,Health,National NGO,ZULFA
+North Darfur,Kebkabiya,124,Health,National NGO,ZULFA
+North Darfur,El Fasher ,114,Nutrition,National NGO,ZULFA
+North Darfur,El Fasher ,114,WASH,National NGO,ZULFA
+North Darfur,El Sireaf,118,WASH,National NGO,ZULFA
+North Kordofan,Shiekan,24,WASH,National NGO,Al Sugya
+North Kordofan,Shiekan,24,Protection,National NGO,AMAL
+North Kordofan,Shiekan,24,NFI,National NGO,AORD
+North Kordofan,Shiekan,24,Protection,National NGO,AORD
+North Kordofan,Shiekan,24,WASH,National NGO,AORD
+North Kordofan,Shiekan,24,Education,National NGO,SDCO
+North Kordofan,Shiekan,24,,UN,UNDSS
+North Kordofan,Shiekan,24,FSL,National NGO,Vetcare 
+North Kordofan,Shiekan,24,FSL,UN,WFP
+Northern,Dongola,17,Health,UN,WHO
+Red Sea,Port Sudan,64,FSL,UN,FAO
+Red Sea,Port Sudan,64,FSL,National NGO,FPDO
+Red Sea,Port Sudan,64,WASH,National NGO,FPDO
+Red Sea,Port Sudan,64,Protection,National NGO,JASMAR
+Red Sea,Port Sudan,64,FSL,National NGO,SRCS
+Red Sea,Port Sudan,64,,UN,UNIDO
+Red Sea,Port Sudan,64,FSL,UN,WFP
+Red Sea,Port Sudan,64,Health,UN,WHO
+Sennar,Sennar,38,Education,National NGO,Alsalam
+Sennar,Sennar,38,Protection,National NGO,AMAL
+Sennar,Sennar,38,Education,National NGO,SOLO
+Sennar,Sennar,38,FSL,National NGO,SOLO
+Sennar,Sennar,38,FSL,National NGO,Zarga
+South Darfur,Nyala,167,Protection,National NGO,ACS
+South Darfur,Bielel ,162,Education,National NGO,Afag
+South Darfur,El Salam,166,Education,National NGO,Afag
+South Darfur,Gereida ,153,Education,National NGO,Afag
+South Darfur,El Salam,166,FSL,National NGO,Afag
+South Darfur,Gereida ,153,FSL,National NGO,Afag
+South Darfur,Kubum,157,FSL,National NGO,Alhusna
+South Darfur,Nyala,167,NFI,National NGO,Alhusna
+South Darfur,Nyala,167,Protection,National NGO,Alhusna
+South Darfur,Bielel ,162,NFI,National NGO,Alrahma
+South Darfur,El Salam,166,NFI,National NGO,Alrahma
+South Darfur,Tullus,149,NFI,National NGO,Alrahma
+South Darfur,El Salam,166,FSL,National NGO,Alshamil
+South Darfur,Kass ,144,NFI,National NGO,Alshroog
+South Darfur,Bielel ,162,Health,International NGO,ARC
+South Darfur,Dimsu,172,Health,International NGO,ARC
+South Darfur,El Salam,166,Health,International NGO,ARC
+South Darfur,Gereida ,153,Health,International NGO,ARC
+South Darfur,Bielel ,162,NFI,International NGO,ARC
+South Darfur,Bielel ,162,Nutrition,International NGO,ARC
+South Darfur,Dimsu,172,Nutrition,International NGO,ARC
+South Darfur,El Salam,166,Nutrition,International NGO,ARC
+South Darfur,Gereida ,153,Nutrition,International NGO,ARC
+South Darfur,Bielel ,162,Protection,International NGO,ARC
+South Darfur,Bielel ,162,WASH,International NGO,ARC
+South Darfur,Dimsu,172,WASH,International NGO,ARC
+South Darfur,Gereida ,153,WASH,International NGO,ARC
+South Darfur,Tullus,149,WASH,International NGO,ARC
+South Darfur,Kubum,157,FSL,National NGO,AVO
+South Darfur,El Salam,166,Education,National NGO,CDF
+South Darfur,Bielel ,162,Protection,National NGO,CDF
+South Darfur,Kass ,144,FSL,International NGO,CIS
+South Darfur,Shattai,154,FSL,International NGO,CIS
+South Darfur,Bielel ,162,Health,International NGO,CIS
+South Darfur,Kass ,144,Health,International NGO,CIS
+South Darfur,Shattai,154,Health,International NGO,CIS
+South Darfur,Kass ,144,NFI,International NGO,CIS
+South Darfur,Kass ,144,Nutrition,International NGO,CIS
+South Darfur,Bielel ,162,WASH,International NGO,CIS
+South Darfur,El Salam,166,WASH,International NGO,CIS
+South Darfur,Gereida ,153,WASH,International NGO,CIS
+South Darfur,Kass ,144,WASH,International NGO,CIS
+South Darfur,El Radoom,141,FSL,National NGO,Elradoom CO
+South Darfur,Nyala North,164,FSL,National NGO,EPDO
+South Darfur,Bielel ,162,FSL,UN,FAO
+South Darfur,Buram,161,FSL,UN,FAO
+South Darfur,Dimsu,172,FSL,UN,FAO
+South Darfur,Ed El Fursan,143,FSL,UN,FAO
+South Darfur,El Radoom,141,FSL,UN,FAO
+South Darfur,El Salam,166,FSL,UN,FAO
+South Darfur,Gereida ,153,FSL,UN,FAO
+South Darfur,Kass ,144,FSL,UN,FAO
+South Darfur,Katayla,159,FSL,UN,FAO
+South Darfur,Kubum,157,FSL,UN,FAO
+South Darfur,Marshang,145,FSL,UN,FAO
+South Darfur,Niteaga,151,FSL,UN,FAO
+South Darfur,Nyala,167,FSL,UN,FAO
+South Darfur,Nyala North,164,FSL,UN,FAO
+South Darfur,Rahad El Berdi,158,FSL,UN,FAO
+South Darfur,Shattai,154,FSL,UN,FAO
+South Darfur,Tullus,149,FSL,UN,FAO
+South Darfur,Um Dafug,146,FSL,UN,FAO
+South Darfur,Bielel ,162,NFI,International NGO,GFO
+South Darfur,Ed El Fursan,143,NFI,International NGO,GFO
+South Darfur,Kass ,144,NFI,International NGO,GFO
+South Darfur,Kubum,157,NFI,International NGO,GFO
+South Darfur,Niteaga,151,NFI,International NGO,GFO
+South Darfur,Rahad El Berdi,158,NFI,International NGO,GFO
+South Darfur,Shattai,154,NFI,International NGO,GFO
+South Darfur,Gereida ,153,CCS,GOV,HAC
+South Darfur,Nyala,167,CCS,GOV,HAC
+South Darfur,El Radoom,141,WASH,International NGO,IAS
+South Darfur,El Salam,166,WASH,International NGO,IAS
+South Darfur,Um Dafug,146,WASH,International NGO,IAS
+South Darfur,Nyala,167,FSL,International NGO,IIRO
+South Darfur,Nyala,167,NFI,International NGO,IIRO
+South Darfur,Nyala,167,Protection,International NGO,IIRO
+South Darfur,Bielel ,162,Health,International NGO,IMC
+South Darfur,Bielel ,162,Nutrition,International NGO,IMC
+South Darfur,El Salam,166,Nutrition,International NGO,IMC
+South Darfur,Nyala,167,Health,UN,IOM
+South Darfur,Nyala,167,Nutrition,UN,IOM
+South Darfur,Bielel ,162,FSL,National NGO,JMCO
+South Darfur,Bielel ,162,NFI,National NGO,JMCO
+South Darfur,Bielel ,162,Protection,National NGO,JMCO
+South Darfur,Nyala,167,Health,National NGO,KPHF
+South Darfur,Bielel ,162,Protection,National NGO,KYCCBB
+South Darfur,Bielel ,162,FSL,International NGO,MCS
+South Darfur,Nyala,167,FSL,International NGO,MCS
+South Darfur,Bielel ,162,WASH,International NGO,MCS
+South Darfur,Nyala,167,WASH,International NGO,MCS
+South Darfur,Nyala North,164,WASH,International NGO,MCS
+South Darfur,Gereida ,153,Protection,National NGO,MoSW
+South Darfur,Niteaga,151,Health,International NGO,MSF-B
+South Darfur,Nyala,167,Health,International NGO,MSF-B
+South Darfur,Nyala,167,Nutrition,International NGO,MSF-B
+South Darfur,Niteaga,151,WASH,International NGO,MSF-B
+South Darfur,Nyala,167,WASH,International NGO,MSF-B
+South Darfur,Bielel ,162,Education,National NGO,Mubadiroon
+South Darfur,Kass ,144,FSL,National NGO,Mubadiroon
+South Darfur,Um Dafug,146,FSL,National NGO,Mubadiroon
+South Darfur,Kass ,144,Health,National NGO,Mubadiroon
+South Darfur,Katayla,159,Health,National NGO,Mubadiroon
+South Darfur,Niteaga,151,Health,National NGO,Mubadiroon
+South Darfur,Nyala North,164,Education,National NGO,Muslan Hands
+South Darfur,Nyala,167,Health,International NGO,Muslim Aid(UK)
+South Darfur,Bielel ,162,Education,National NGO,Muslan Hands
+South Darfur,Bielel ,162,Education,International NGO,NCA
+South Darfur,Bielel ,162,Health,International NGO,NCA
+South Darfur,Bielel ,162,NFI,International NGO,NCA
+South Darfur,Marshang,145,NFI,International NGO,NCA
+South Darfur,Niteaga,151,NFI,International NGO,NCA
+South Darfur,Nyala North,164,NFI,International NGO,NCA
+South Darfur,Tullus,149,NFI,International NGO,NCA
+South Darfur,Bielel ,162,Nutrition,International NGO,NCA
+South Darfur,Bielel ,162,WASH,International NGO,NCA
+South Darfur,Ed El Fursan,143,WASH,International NGO,NCA
+South Darfur,Nyala North,164,Health,National NGO,NIDO
+South Darfur,Bielel ,162,Protection,National NGO,NOCD
+South Darfur,El Salam,166,Protection,National NGO,NOCD
+South Darfur,Kass ,144,Protection,National NGO,NOCD
+South Darfur,Nyala,167,Protection,National NGO,NOCD
+South Darfur,Nyala North,164,Protection,National NGO,NOCD
+South Darfur,Shattai,154,Protection,National NGO,NOCD
+South Darfur,Katayla,159,FSL,National NGO,Noon
+South Darfur,Nyala North,164,NFI,National NGO,NRDO
+South Darfur,Bielel ,162,CCS,UN,OCHA
+South Darfur,Buram,161,CCS,UN,OCHA
+South Darfur,Dimsu,172,CCS,UN,OCHA
+South Darfur,Ed El Fursan,143,CCS,UN,OCHA
+South Darfur,El Radoom,141,CCS,UN,OCHA
+South Darfur,El Salam,166,CCS,UN,OCHA
+South Darfur,Gereida ,153,CCS,UN,OCHA
+South Darfur,Kass ,144,CCS,UN,OCHA
+South Darfur,Katayla,159,CCS,UN,OCHA
+South Darfur,Kubum,157,CCS,UN,OCHA
+South Darfur,Marshang,145,CCS,UN,OCHA
+South Darfur,Niteaga,151,CCS,UN,OCHA
+South Darfur,Nyala,167,CCS,UN,OCHA
+South Darfur,Nyala North,164,CCS,UN,OCHA
+South Darfur,Rahad El Berdi,158,CCS,UN,OCHA
+South Darfur,Shattai,154,CCS,UN,OCHA
+South Darfur,Tullus,149,CCS,UN,OCHA
+South Darfur,Um Dafug,146,CCS,UN,OCHA
+South Darfur,Bielel ,162,WASH,International NGO,Oxfam A
+South Darfur,Kass ,144,WASH,International NGO,Oxfam A
+South Darfur,Bielel ,162,FSL,National NGO,PDNO
+South Darfur,El Salam,166,FSL,National NGO,PDNO
+South Darfur,Marshang,145,FSL,National NGO,PDNO
+South Darfur,Niteaga,151,FSL,National NGO,PDNO
+South Darfur,Kass ,144,FSL,National NGO,PODR
+South Darfur,Katayla,159,FSL,National NGO,PODR
+South Darfur,Kass ,144,NFI,National NGO,PODR
+South Darfur,Nyala,167,NFI,National NGO,PODR
+South Darfur,Nyala,167,Protection,National NGO,PODR
+South Darfur,Niteaga,151,FSL,National NGO,PREDO
+South Darfur,Ed El Fursan,143,Education,International NGO,Qatar Charity
+South Darfur,El Salam,166,Education,International NGO,Qatar Charity
+South Darfur,Nyala North,164,Education,International NGO,Qatar Charity
+South Darfur,Bielel ,162,WASH,International NGO,Qatar Charity
+South Darfur,Ed El Fursan,143,WASH,International NGO,Qatar Charity
+South Darfur,El Salam,166,WASH,International NGO,Qatar Charity
+South Darfur,Nyala,167,WASH,International NGO,Qatar Charity
+South Darfur,Nyala North,164,WASH,International NGO,Qatar Charity
+South Darfur,Bielel ,162,NFI,National NGO,RDN
+South Darfur,Katayla,159,NFI,National NGO,RDN
+South Darfur,Nyala North,164,NFI,National NGO,RDN
+South Darfur,Nyala North,164,Protection,National NGO,RDN
+South Darfur,Nyala,167,Health,National NGO,RHF
+South Darfur,Nyala North,164,Health,National NGO,Rufeida
+South Darfur,Um Dafug,146,Health,National NGO,Rufeida
+South Darfur,Bielel ,162,Education,GOV,S.MOE
+South Darfur,Buram,161,Education,GOV,S.MOE
+South Darfur,Dimsu,172,Education,GOV,S.MOE
+South Darfur,Ed El Fursan,143,Education,GOV,S.MOE
+South Darfur,El Radoom,141,Education,GOV,S.MOE
+South Darfur,El Salam,166,Education,GOV,S.MOE
+South Darfur,Gereida ,153,Education,GOV,S.MOE
+South Darfur,Kass ,144,Education,GOV,S.MOE
+South Darfur,Katayla,159,Education,GOV,S.MOE
+South Darfur,Kubum,157,Education,GOV,S.MOE
+South Darfur,Marshang,145,Education,GOV,S.MOE
+South Darfur,Niteaga,151,Education,GOV,S.MOE
+South Darfur,Nyala,167,Education,GOV,S.MOE
+South Darfur,Nyala North,164,Education,GOV,S.MOE
+South Darfur,Rahad El Berdi,158,Education,GOV,S.MOE
+South Darfur,S. Jebal marra,147,Education,GOV,S.MOE
+South Darfur,Shattai,154,Education,GOV,S.MOE
+South Darfur,Tullus,149,Education,GOV,S.MOE
+South Darfur,Um Dafug,146,Education,GOV,S.MOE
+South Darfur,Bielel ,162,Health,GOV,S.MOE
+South Darfur,Buram,161,Nutrition,GOV,S.MOE
+South Darfur,Ed El Fursan,143,Nutrition,GOV,S.MOE
+South Darfur,Gereida ,153,Health,GOV,SMOH
+South Darfur,Kass ,144,Health,GOV,SMOH
+South Darfur,Katayla,159,Health,GOV,SMOH
+South Darfur,Kubum,157,Health,GOV,SMOH
+South Darfur,Nyala,167,Health,GOV,SMOH
+South Darfur,Nyala North,164,Health,GOV,SMOH
+South Darfur,Rahad El Berdi,158,Health,GOV,SMOH
+South Darfur,S. Jebal marra,147,Health,GOV,SMOH
+South Darfur,Tullus,149,Health,GOV,SMOH
+South Darfur,Um Dafug,146,Health,GOV,SMOH
+South Darfur,El Salam,166,Nutrition,GOV,SMOH
+South Darfur,Nyala,167,Nutrition,GOV,SMOH
+South Darfur,Nyala North,164,Nutrition,GOV,SMOH
+South Darfur,Bielel ,162,Education,National NGO,SPCR
+South Darfur,Bielel ,162,FSL,National NGO,SPCR
+South Darfur,Niteaga,151,FSL,National NGO,SPCR
+South Darfur,Nyala,167,Health,National NGO,SRCS
+South Darfur,Nyala North,164,Health,National NGO,SRCS
+South Darfur,Buram,161,NFI,National NGO,SRCS
+South Darfur,Gereida ,153,NFI,National NGO,SRCS
+South Darfur,Nyala North,164,NFI,National NGO,SRCS
+South Darfur,Bielel ,162,Protection,National NGO,SSO
+South Darfur,Nyala,167,Protection,National NGO,SSO
+South Darfur,Kass ,144,FSL,International NGO,TF
+South Darfur,Kass ,144,NFI,International NGO,TF
+South Darfur,Kass ,144,WASH,International NGO,TF
+South Darfur,Kass ,144,WASH,International NGO,TF
+South Darfur,Marshang,145,Education,UN,UNAMID
+South Darfur,Bielel ,162,Protection,UN,UNAMID
+South Darfur,Buram,161,Protection,UN,UNAMID
+South Darfur,Dimsu,172,Protection,UN,UNAMID
+South Darfur,Ed El Fursan,143,Protection,UN,UNAMID
+South Darfur,El Salam,166,Protection,UN,UNAMID
+South Darfur,Gereida ,153,Protection,UN,UNAMID
+South Darfur,Kass ,144,Protection,UN,UNAMID
+South Darfur,Katayla,159,Protection,UN,UNAMID
+South Darfur,Marshang,145,Protection,UN,UNAMID
+South Darfur,Niteaga,151,Protection,UN,UNAMID
+South Darfur,Nyala,167,Protection,UN,UNAMID
+South Darfur,Nyala North,164,Protection,UN,UNAMID
+South Darfur,Shattai,154,Protection,UN,UNAMID
+South Darfur,Bielel ,162,Health,UN,UNFPA
+South Darfur,Ed El Fursan,143,Health,UN,UNFPA
+South Darfur,Kubum,157,Health,UN,UNFPA
+South Darfur,Marshang,145,Health,UN,UNFPA
+South Darfur,Niteaga,151,Health,UN,UNFPA
+South Darfur,Nyala,167,Health,UN,UNFPA
+South Darfur,Nyala North,164,Health,UN,UNFPA
+South Darfur,Bielel ,162,NFI,UN,UNHCR
+South Darfur,Buram,161,NFI,UN,UNHCR
+South Darfur,Dimsu,172,NFI,UN,UNHCR
+South Darfur,Ed El Fursan,143,NFI,UN,UNHCR
+South Darfur,El Radoom,141,NFI,UN,UNHCR
+South Darfur,El Salam,166,NFI,UN,UNHCR
+South Darfur,Gereida ,153,NFI,UN,UNHCR
+South Darfur,Kass ,144,NFI,UN,UNHCR
+South Darfur,Katayla,159,NFI,UN,UNHCR
+South Darfur,Kubum,157,NFI,UN,UNHCR
+South Darfur,Marshang,145,NFI,UN,UNHCR
+South Darfur,Niteaga,151,NFI,UN,UNHCR
+South Darfur,Nyala,167,NFI,UN,UNHCR
+South Darfur,Nyala North,164,NFI,UN,UNHCR
+South Darfur,Rahad El Berdi,158,NFI,UN,UNHCR
+South Darfur,Shattai,154,NFI,UN,UNHCR
+South Darfur,Tullus,149,NFI,UN,UNHCR
+South Darfur,Um Dafug,146,NFI,UN,UNHCR
+South Darfur,Bielel ,162,Protection,UN,UNHCR
+South Darfur,El Salam,166,Protection,UN,UNHCR
+South Darfur,Gereida ,153,Protection,UN,UNHCR
+South Darfur,Kass ,144,Protection,UN,UNHCR
+South Darfur,Niteaga,151,Protection,UN,UNHCR
+South Darfur,Nyala,167,Protection,UN,UNHCR
+South Darfur,Nyala North,164,Protection,UN,UNHCR
+South Darfur,Shattai,154,Protection,UN,UNHCR
+South Darfur,Kass ,144,RRR,UN,UNHCR
+South Darfur,Bielel ,162,Education,UN,UNICEF
+South Darfur,Ed El Fursan,143,Education,UN,UNICEF
+South Darfur,El Radoom,141,Education,UN,UNICEF
+South Darfur,El Salam,166,Education,UN,UNICEF
+South Darfur,Gereida ,153,Education,UN,UNICEF
+South Darfur,Kass ,144,Education,UN,UNICEF
+South Darfur,Katayla,159,Education,UN,UNICEF
+South Darfur,Kubum,157,Education,UN,UNICEF
+South Darfur,Marshang,145,Education,UN,UNICEF
+South Darfur,Niteaga,151,Education,UN,UNICEF
+South Darfur,Nyala,167,Education,UN,UNICEF
+South Darfur,Nyala North,164,Education,UN,UNICEF
+South Darfur,Rahad El Berdi,158,Education,UN,UNICEF
+South Darfur,S. Jebal marra,147,Education,UN,UNICEF
+South Darfur,Shattai,154,Education,UN,UNICEF
+South Darfur,Tullus,149,Education,UN,UNICEF
+South Darfur,Um Dafug,146,Education,UN,UNICEF
+South Darfur,Kubum,157,Health,UN,UNICEF
+South Darfur,Marshang,145,Health,UN,UNICEF
+South Darfur,Niteaga,151,Health,UN,UNICEF
+South Darfur,Nyala,167,Health,UN,UNICEF
+South Darfur,Nyala North,164,Health,UN,UNICEF
+South Darfur,Bielel ,162,Nutrition,UN,UNICEF
+South Darfur,Buram,161,Nutrition,UN,UNICEF
+South Darfur,Dimsu,172,Nutrition,UN,UNICEF
+South Darfur,Ed El Fursan,143,Nutrition,UN,UNICEF
+South Darfur,El Radoom,141,Nutrition,UN,UNICEF
+South Darfur,El Salam,166,Nutrition,UN,UNICEF
+South Darfur,Gereida ,153,Nutrition,UN,UNICEF
+South Darfur,Kass ,144,Nutrition,UN,UNICEF
+South Darfur,Katayla,159,Nutrition,UN,UNICEF
+South Darfur,Kubum,157,Nutrition,UN,UNICEF
+South Darfur,Marshang,145,Nutrition,UN,UNICEF
+South Darfur,Niteaga,151,Nutrition,UN,UNICEF
+South Darfur,Nyala,167,Nutrition,UN,UNICEF
+South Darfur,Nyala North,164,Nutrition,UN,UNICEF
+South Darfur,Rahad El Berdi,158,Nutrition,UN,UNICEF
+South Darfur,Tullus,149,Nutrition,UN,UNICEF
+South Darfur,Um Dafug,146,Nutrition,UN,UNICEF
+South Darfur,Bielel ,162,Protection,UN,UNICEF
+South Darfur,Dimsu,172,Protection,UN,UNICEF
+South Darfur,El Salam,166,Protection,UN,UNICEF
+South Darfur,Kass ,144,Protection,UN,UNICEF
+South Darfur,Marshang,145,Protection,UN,UNICEF
+South Darfur,Niteaga,151,Protection,UN,UNICEF
+South Darfur,Nyala,167,Protection,UN,UNICEF
+South Darfur,Nyala North,164,Protection,UN,UNICEF
+South Darfur,Bielel ,162,WASH,UN,UNICEF
+South Darfur,Dimsu,172,WASH,UN,UNICEF
+South Darfur,Ed El Fursan,143,WASH,UN,UNICEF
+South Darfur,El Radoom,141,WASH,UN,UNICEF
+South Darfur,El Salam,166,WASH,UN,UNICEF
+South Darfur,Katayla,159,WASH,UN,UNICEF
+South Darfur,Kubum,157,WASH,UN,UNICEF
+South Darfur,Marshang,145,WASH,UN,UNICEF
+South Darfur,Niteaga,151,WASH,UN,UNICEF
+South Darfur,Nyala,167,WASH,UN,UNICEF
+South Darfur,Nyala North,164,WASH,UN,UNICEF
+South Darfur,Rahad El Berdi,158,WASH,UN,UNICEF
+South Darfur,Tullus,149,WASH,UN,UNICEF
+South Darfur,Bielel ,162,NFI,UN,UNOPS
+South Darfur,Buram,161,NFI,UN,UNOPS
+South Darfur,Dimsu,172,NFI,UN,UNOPS
+South Darfur,Ed El Fursan,143,NFI,UN,UNOPS
+South Darfur,El Radoom,141,NFI,UN,UNOPS
+South Darfur,El Salam,166,NFI,UN,UNOPS
+South Darfur,Gereida ,153,NFI,UN,UNOPS
+South Darfur,Kass ,144,NFI,UN,UNOPS
+South Darfur,Katayla,159,NFI,UN,UNOPS
+South Darfur,Kubum,157,NFI,UN,UNOPS
+South Darfur,Marshang,145,NFI,UN,UNOPS
+South Darfur,Niteaga,151,NFI,UN,UNOPS
+South Darfur,Nyala,167,NFI,UN,UNOPS
+South Darfur,Nyala North,164,NFI,UN,UNOPS
+South Darfur,Rahad El Berdi,158,NFI,UN,UNOPS
+South Darfur,Shattai,154,NFI,UN,UNOPS
+South Darfur,Tullus,149,NFI,UN,UNOPS
+South Darfur,Um Dafug,146,NFI,UN,UNOPS
+South Darfur,Bielel ,162,Protection,UN,UNOPS
+South Darfur,Kass ,144,RRR,UN,UNOPS
+South Darfur,Bielel ,162,Education,National NGO,UPO
+South Darfur,Bielel ,162,FSL,National NGO,UPO
+South Darfur,Buram,161,FSL,National NGO,UPO
+South Darfur,Buram,161,NFI,National NGO,UPO
+South Darfur,El Salam,166,NFI,National NGO,UPO
+South Darfur,Nyala North,164,Protection,National NGO,UPO
+South Darfur,Bielel ,162,Education,National NGO,WES
+South Darfur,Buram,161,Education,National NGO,WES
+South Darfur,El Salam,166,Education,National NGO,WES
+South Darfur,Gereida ,153,Education,National NGO,WES
+South Darfur,Kass ,144,Education,National NGO,WES
+South Darfur,Nyala,167,Education,National NGO,WES
+South Darfur,Nyala North,164,Education,National NGO,WES
+South Darfur,Bielel ,162,WASH,National NGO,WES
+South Darfur,Buram,161,WASH,National NGO,WES
+South Darfur,Dimsu,172,WASH,National NGO,WES
+South Darfur,Ed El Fursan,143,WASH,National NGO,WES
+South Darfur,El Radoom,141,WASH,National NGO,WES
+South Darfur,El Salam,166,WASH,National NGO,WES
+South Darfur,Gereida ,153,WASH,National NGO,WES
+South Darfur,Katayla,159,WASH,National NGO,WES
+South Darfur,Kubum,157,WASH,National NGO,WES
+South Darfur,Nyala,167,WASH,National NGO,WES
+South Darfur,Nyala North,164,WASH,National NGO,WES
+South Darfur,Rahad El Berdi,158,WASH,National NGO,WES
+South Darfur,Tullus,149,WASH,National NGO,WES
+South Darfur,Bielel ,162,Education,UN,WFP
+South Darfur,El Salam,166,Education,UN,WFP
+South Darfur,Gereida ,153,Education,UN,WFP
+South Darfur,Kass ,144,Education,UN,WFP
+South Darfur,Marshang,145,Education,UN,WFP
+South Darfur,Niteaga,151,Education,UN,WFP
+South Darfur,Bielel ,162,FSL,UN,WFP
+South Darfur,Ed El Fursan,143,FSL,UN,WFP
+South Darfur,El Salam,166,FSL,UN,WFP
+South Darfur,Gereida ,153,FSL,UN,WFP
+South Darfur,Kass ,144,FSL,UN,WFP
+South Darfur,Katayla,159,FSL,UN,WFP
+South Darfur,Kubum,157,FSL,UN,WFP
+South Darfur,Marshang,145,FSL,UN,WFP
+South Darfur,Niteaga,151,FSL,UN,WFP
+South Darfur,Nyala,167,FSL,UN,WFP
+South Darfur,Nyala North,164,FSL,UN,WFP
+South Darfur,Rahad El Berdi,158,FSL,UN,WFP
+South Darfur,Shattai,154,FSL,UN,WFP
+South Darfur,Marshang,145,Nutrition,UN,WFP
+South Darfur,Niteaga,151,Nutrition,UN,WFP
+South Darfur,Bielel ,162,Health,UN,WHO
+South Darfur,Buram,161,Health,UN,WHO
+South Darfur,Dimsu,172,Health,UN,WHO
+South Darfur,Ed El Fursan,143,Health,UN,WHO
+South Darfur,El Radoom,141,Health,UN,WHO
+South Darfur,El Salam,166,Health,UN,WHO
+South Darfur,Gereida ,153,Health,UN,WHO
+South Darfur,Kass ,144,Health,UN,WHO
+South Darfur,Katayla,159,Health,UN,WHO
+South Darfur,Kubum,157,Health,UN,WHO
+South Darfur,Marshang,145,Health,UN,WHO
+South Darfur,Niteaga,151,Health,UN,WHO
+South Darfur,Nyala,167,Health,UN,WHO
+South Darfur,Nyala North,164,Health,UN,WHO
+South Darfur,Rahad El Berdi,158,Health,UN,WHO
+South Darfur,Tullus,149,Health,UN,WHO
+South Darfur,Bielel ,162,Education,International NGO,WVI
+South Darfur,Ed El Fursan,143,Education,International NGO,WVI
+South Darfur,Kass ,144,Education,International NGO,WVI
+South Darfur,Marshang,145,Education,International NGO,WVI
+South Darfur,Niteaga,151,Education,International NGO,WVI
+South Darfur,Nyala,167,Education,International NGO,WVI
+South Darfur,Nyala North,164,Education,International NGO,WVI
+South Darfur,Bielel ,162,FSL,International NGO,WVI
+South Darfur,Ed El Fursan,143,FSL,International NGO,WVI
+South Darfur,El Salam,166,FSL,International NGO,WVI
+South Darfur,Kass ,144,FSL,International NGO,WVI
+South Darfur,Katayla,159,FSL,International NGO,WVI
+South Darfur,Kubum,157,FSL,International NGO,WVI
+South Darfur,Marshang,145,FSL,International NGO,WVI
+South Darfur,Nyala,167,FSL,International NGO,WVI
+South Darfur,Nyala North,164,FSL,International NGO,WVI
+South Darfur,Rahad El Berdi,158,FSL,International NGO,WVI
+South Darfur,Shattai,154,FSL,International NGO,WVI
+South Darfur,Bielel ,162,Health,International NGO,WVI
+South Darfur,Ed El Fursan,143,Health,International NGO,WVI
+South Darfur,Kubum,157,Health,International NGO,WVI
+South Darfur,Marshang,145,Health,International NGO,WVI
+South Darfur,Niteaga,151,Health,International NGO,WVI
+South Darfur,Nyala,167,Health,International NGO,WVI
+South Darfur,Nyala North,164,Health,International NGO,WVI
+South Darfur,Ed El Fursan,143,NFI,International NGO,WVI
+South Darfur,Niteaga,151,NFI,International NGO,WVI
+South Darfur,Rahad El Berdi,158,NFI,International NGO,WVI
+South Darfur,Ed El Fursan,143,Nutrition,International NGO,WVI
+South Darfur,Kubum,157,Nutrition,International NGO,WVI
+South Darfur,Marshang,145,Nutrition,International NGO,WVI
+South Darfur,Niteaga,151,Nutrition,International NGO,WVI
+South Darfur,Nyala,167,Nutrition,International NGO,WVI
+South Darfur,Nyala,167,Nutrition,International NGO,WVI
+South Darfur,Nyala North,164,Nutrition,International NGO,WVI
+South Darfur,Kass ,144,Protection,International NGO,WVI
+South Darfur,Marshang,145,Protection,International NGO,WVI
+South Darfur,Niteaga,151,Protection,International NGO,WVI
+South Darfur,Ed El Fursan,143,WASH,International NGO,WVI
+South Darfur,El Salam,166,WASH,International NGO,WVI
+South Darfur,Kass ,144,WASH,International NGO,WVI
+South Darfur,Kubum,157,WASH,International NGO,WVI
+South Darfur,Marshang,145,WASH,International NGO,WVI
+South Darfur,Niteaga,151,WASH,International NGO,WVI
+South Darfur,Nyala North,164,WASH,International NGO,WVI
+South Darfur,Rahad El Berdi,158,WASH,International NGO,WVI
+South Darfur,El Salam,166,Education,International NGO,ZOA
+South Darfur,Gereida ,153,Education,International NGO,ZOA
+South Darfur,Marshang,145,Education,International NGO,ZOA
+South Kordofan,Al Qoz,94,Nutrition,National NGO,Almanar
+South Kordofan,Dilling,95,Nutrition,National NGO,Almanar
+South Kordofan,Dilling,95,Education,National NGO,Almassar
+South Kordofan,Dilling,95,FSL,National NGO,Aryaf
+South Kordofan,Reif Ashargi,97,FSL,National NGO,Aryaf
+South Kordofan,Kadugli,98,Education,National NGO,ASDO
+South Kordofan,Kadugli,98,Health,National NGO,ASDO
+South Kordofan,Kadugli,98,WASH,National NGO,ASDO
+South Kordofan,Abu Jubaiha,88,Health,National NGO,ASSIST
+South Kordofan,Dilling,95,Health,National NGO,ASSIST
+South Kordofan,Kadugli,98,Health,National NGO,ASSIST
+South Kordofan,Rashad,93,Health,National NGO,ASSIST
+South Kordofan,Reif Ashargi,97,Health,National NGO,ASSIST
+South Kordofan,Talodi,89,Health,National NGO,ASSIST
+South Kordofan,Dilling,95,Education,National NGO,Badya
+South Kordofan,Kadugli,98,Education,National NGO,Badya
+South Kordofan,Reif Ashargi,97,Education,National NGO,Badya
+South Kordofan,Dilling,95,NFI,National NGO,Badya
+South Kordofan,Kadugli,98,NFI,National NGO,Badya
+South Kordofan,Reif Ashargi,97,NFI,National NGO,Badya
+South Kordofan,Dilling,95,WASH,National NGO,Badya
+South Kordofan,Kadugli,98,WASH,National NGO,Badya
+South Kordofan,Reif Ashargi,97,WASH,National NGO,Badya
+South Kordofan,Dilling,95,FSL,International NGO,CIS
+South Kordofan,Kadugli,98,FSL,International NGO,CIS
+South Kordofan,Dilling,95,NFI,International NGO,CIS
+South Kordofan,Kadugli,98,NFI,International NGO,CIS
+South Kordofan,Dilling,95,WASH,International NGO,CIS
+South Kordofan,Kadugli,98,WASH,International NGO,CIS
+South Kordofan,El Leri,89,Health,International NGO,CONCERN
+South Kordofan,El Leri,89,NFI,International NGO,CONCERN
+South Kordofan,El Leri,89,Nutrition,International NGO,CONCERN
+South Kordofan,Kadugli,98,Nutrition,International NGO,CONCERN
+South Kordofan,Kadugli,98,FSL,UN,FAO
+South Kordofan,Dilling,95,FSL,International NGO,FAR
+South Kordofan,Dilling,95,FSL,International NGO,FAR
+South Kordofan,Kadugli,98,Health,National NGO,FPDO
+South Kordofan,Kadugli,98,Protection,National NGO,FPDO
+South Kordofan,Kadugli,98,WASH,National NGO,FPDO
+South Kordofan,Abu Jubaiha,88,Health,National NGO,GAH
+South Kordofan,Kadugli,98,Health,National NGO,GAH
+South Kordofan,Abu Jubaiha,88,Nutrition,National NGO,GAH
+South Kordofan,Kadugli,98,Nutrition,National NGO,GAH
+South Kordofan,Abu Jubaiha,88,Protection,National NGO,GAH
+South Kordofan,Kadugli,98,Protection,National NGO,GAH
+South Kordofan,Abu Jubaiha,88,Nutrition,National NGO,GHF
+South Kordofan,Debaibat,#N/A,FSL,National NGO,Good Plantation
+South Kordofan,Al Qoz,94,FSL,National NGO,GPBC
+South Kordofan,Dilling,95,FSL,National NGO,GPBC
+South Kordofan,Kadugli,98,FSL,National NGO,GPBC
+South Kordofan,Dilling,95,WASH,International NGO,IAS
+South Kordofan,Kadugli,98,RRR,UN,IOM
+South Kordofan,Dilling,95,Health,National NGO,IRSA
+South Kordofan,Kadugli,98,Health,National NGO,IRSA
+South Kordofan,Rashad,93,Health,National NGO,IRSA
+South Kordofan,Dilling,95,Nutrition,National NGO,IRSA
+South Kordofan,Kadugli,98,Nutrition,National NGO,IRSA
+South Kordofan,Rashad,93,Nutrition,National NGO,IRSA
+South Kordofan,Dilling,95,WASH,National NGO,IRSA
+South Kordofan,Kadugli,98,WASH,National NGO,IRSA
+South Kordofan,Rashad,93,WASH,National NGO,IRSA
+South Kordofan,Abu Jubaiha,88,Health,National NGO,Islamic Call
+South Kordofan,Dilling,95,Health,National NGO,Islamic Call
+South Kordofan,Kadugli,98,Health,National NGO,Islamic Call
+South Kordofan,Talodi,89,Health,National NGO,Islamic Call
+South Kordofan,Abu Jubaiha,88,WASH,National NGO,Islamic Call
+South Kordofan,Dilling,95,WASH,National NGO,Islamic Call
+South Kordofan,Kadugli,98,WASH,National NGO,Islamic Call
+South Kordofan,Talodi,89,WASH,National NGO,Islamic Call
+South Kordofan,Kadugli,98,RMS,International NGO,JVC
+South Kordofan,Abu Karshola,93,Education,National NGO,Labena
+South Kordofan,Dilling,95,Education,National NGO,Labena
+South Kordofan,Kadugli,98,Education,National NGO,Labena
+South Kordofan,Reif Ashargi,97,Education,National NGO,Labena
+South Kordofan,Abu Karshola,93,Health,National NGO,Labena
+South Kordofan,Dilling,95,Health,National NGO,Labena
+South Kordofan,Kadugli,98,Health,National NGO,Labena
+South Kordofan,Reif Ashargi,97,Health,National NGO,Labena
+South Kordofan,Reif Ashargi,97,Education,National NGO,LAO
+South Kordofan,Kadugli,98,WASH,International NGO,MCS
+South Kordofan,Abu Jubaiha,88,Education,National NGO,Mubadiroon
+South Kordofan,Dilling,95,Education,National NGO,Mubadiroon
+South Kordofan,El Leri,89,Education,National NGO,Mubadiroon
+South Kordofan,Kadugli,98,Education,National NGO,Mubadiroon
+South Kordofan,Rashad,93,Education,National NGO,Mubadiroon
+South Kordofan,Talodi,89,Education,National NGO,Mubadiroon
+South Kordofan,Abu Jubaiha,88,FSL,National NGO,Mubadiroon
+South Kordofan,Dilling,95,FSL,National NGO,Mubadiroon
+South Kordofan,El Leri,89,FSL,National NGO,Mubadiroon
+South Kordofan,Kadugli,98,FSL,National NGO,Mubadiroon
+South Kordofan,Rashad,93,FSL,National NGO,Mubadiroon
+South Kordofan,Talodi,89,FSL,National NGO,Mubadiroon
+South Kordofan,Abu Jubaiha,88,Health,National NGO,Mubadiroon
+South Kordofan,Dilling,95,Health,National NGO,Mubadiroon
+South Kordofan,El Leri,89,Health,National NGO,Mubadiroon
+South Kordofan,Kadugli,98,Health,National NGO,Mubadiroon
+South Kordofan,Rashad,93,Health,National NGO,Mubadiroon
+South Kordofan,Talodi,89,Health,National NGO,Mubadiroon
+South Kordofan,Kadugli,98,Health,International NGO,NCA
+South Kordofan,Kadugli,98,WASH,International NGO,NCA
+South Kordofan,Al Qoz,94,Education,National NGO,NIDAA
+South Kordofan,Al Qoz,94,FSL,National NGO,NIDAA
+South Kordofan,Al Qoz,94,Health,National NGO,NIDAA
+South Kordofan,Al Qoz,94,Nutrition,National NGO,NIDAA
+South Kordofan,Al Qoz,94,WASH,National NGO,NIDAA
+South Kordofan,Kadugli,98,Health,National NGO,NVC
+South Kordofan,Kadugli,98,CCS,UN,OCHA
+South Kordofan,Kadugli,98,Health,National NGO,PANCARE
+South Kordofan,Rashad,93,Health,National NGO,PANCARE
+South Kordofan,Kadugli,98,Education,International NGO,Plan Sudan
+South Kordofan,Al Qoz,94,Education,International NGO,SC-S
+South Kordofan,Dilling,95,Education,International NGO,SC-S
+South Kordofan,Kadugli,98,Education,International NGO,SC-S
+South Kordofan,Al Qoz,94,Health,International NGO,SC-S
+South Kordofan,Dilling,95,Health,International NGO,SC-S
+South Kordofan,Kadugli,98,Health,International NGO,SC-S
+South Kordofan,Al Qoz,94,Nutrition,International NGO,SC-S
+South Kordofan,Dilling,95,Nutrition,International NGO,SC-S
+South Kordofan,Kadugli,98,Nutrition,International NGO,SC-S
+South Kordofan,Al Qoz,94,Protection,International NGO,SC-S
+South Kordofan,Dilling,95,Protection,International NGO,SC-S
+South Kordofan,Kadugli,98,Protection,International NGO,SC-S
+South Kordofan,Al Qoz,94,WASH,International NGO,SC-S
+South Kordofan,Dilling,95,WASH,International NGO,SC-S
+South Kordofan,Kadugli,98,WASH,International NGO,SC-S
+South Kordofan,Dilling,95,Health,National NGO,Sibro
+South Kordofan,Kadugli,98,Health,National NGO,Sibro
+South Kordofan,Dilling,95,Mine Action,National NGO,Sibro
+South Kordofan,Kadugli,98,Mine Action,National NGO,Sibro
+South Kordofan,Dilling,95,Nutrition,National NGO,Sibro
+South Kordofan,Kadugli,98,Nutrition,National NGO,Sibro
+South Kordofan,Dilling,95,Protection,National NGO,Sibro
+South Kordofan,Kadugli,98,Protection,National NGO,Sibro
+South Kordofan,Abu Jubaiha,88,Education,National NGO,SOLO
+South Kordofan,Dilling,95,Education,National NGO,SOLO
+South Kordofan,El Abassiya,90,Education,National NGO,SOLO
+South Kordofan,Kadugli,98,Education,National NGO,SOLO
+South Kordofan,Rashad,93,Education,National NGO,SOLO
+South Kordofan,Kadugli,98,FSL,National NGO,SOS Sahel
+South Kordofan,Rashad,93,FSL,National NGO,SOS Sahel
+South Kordofan,Reif Ashargi,97,FSL,National NGO,SOS Sahel
+South Kordofan,Kadugli,98,NFI,National NGO,SOS Sahel
+South Kordofan,Rashad,93,NFI,National NGO,SOS Sahel
+South Kordofan,Reif Ashargi,97,NFI,National NGO,SOS Sahel
+South Kordofan,Kadugli,98,WASH,National NGO,SOS Sahel
+South Kordofan,Rashad,93,WASH,National NGO,SOS Sahel
+South Kordofan,Reif Ashargi,97,WASH,National NGO,SOS Sahel
+South Kordofan,Kadugli,98,Education,National NGO,SRCS
+South Kordofan,Rashad,93,Education,National NGO,SRCS
+South Kordofan,Talodi,89,Education,National NGO,SRCS
+South Kordofan,Habila,103,Health,National NGO,SRCS
+South Kordofan,Kadugli,98,Health,National NGO,SRCS
+South Kordofan,Rashad,93,Health,National NGO,SRCS
+South Kordofan,Talodi,89,Health,National NGO,SRCS
+South Kordofan,Habila,103,NFI,National NGO,SRCS
+South Kordofan,Kadugli,98,NFI,National NGO,SRCS
+South Kordofan,Rashad,93,NFI,National NGO,SRCS
+South Kordofan,Talodi,89,NFI,National NGO,SRCS
+South Kordofan,Habila,103,WASH,National NGO,SRCS
+South Kordofan,Kadugli,98,WASH,National NGO,SRCS
+South Kordofan,Rashad,93,WASH,National NGO,SRCS
+South Kordofan,Talodi,89,WASH,National NGO,SRCS
+South Kordofan,Dilling,95,Protection,National NGO,TACO
+South Kordofan,Kadugli,98,Protection,National NGO,TACO
+South Kordofan,Dilling,95,Education,National NGO,Turath
+South Kordofan,Habila,103,Education,National NGO,Turath
+South Kordofan,Kadugli,98,Education,National NGO,Turath
+South Kordofan,Reif Ashargi,97,Education,National NGO,Turath
+South Kordofan,Dilling,95,Health,National NGO,Turath
+South Kordofan,Habila,103,Health,National NGO,Turath
+South Kordofan,Kadugli,98,Health,National NGO,Turath
+South Kordofan,Reif Ashargi,97,Health,National NGO,Turath
+South Kordofan,Dilling,95,NFI,National NGO,Turath
+South Kordofan,Habila,103,NFI,National NGO,Turath
+South Kordofan,Kadugli,98,NFI,National NGO,Turath
+South Kordofan,Reif Ashargi,97,NFI,National NGO,Turath
+South Kordofan,Dilling,95,Nutrition,National NGO,Turath
+South Kordofan,Habila,103,Nutrition,National NGO,Turath
+South Kordofan,Kadugli,98,Nutrition,National NGO,Turath
+South Kordofan,Reif Ashargi,97,Nutrition,National NGO,Turath
+South Kordofan,Dilling,95,RRR,National NGO,Turath
+South Kordofan,Habila,103,RRR,National NGO,Turath
+South Kordofan,Kadugli,98,RRR,National NGO,Turath
+South Kordofan,Reif Ashargi,97,RRR,National NGO,Turath
+South Kordofan,Abu Jubaiha,88,FSL,National NGO,UAD
+South Kordofan,Dilling,95,FSL,National NGO,UAD
+South Kordofan,El Leri,89,FSL,National NGO,UAD
+South Kordofan,Gedeer,#N/A,FSL,National NGO,UAD
+South Kordofan,Kadugli,98,FSL,National NGO,UAD
+South Kordofan,Talodi,89,FSL,National NGO,UAD
+South Kordofan,Abu Jubaiha,88,Health,National NGO,UAD
+South Kordofan,Dilling,95,Health,National NGO,UAD
+South Kordofan,El Leri,89,Health,National NGO,UAD
+South Kordofan,Gedeer,#N/A,Health,National NGO,UAD
+South Kordofan,Kadugli,98,Health,National NGO,UAD
+South Kordofan,Talodi,89,Health,National NGO,UAD
+South Kordofan,Kadugli,98,Protection,UN,UNDSS
+South Kordofan,Kadugli,98,Protection,UN,UNHCR
+South Kordofan,Kadugli,98,Protection,UN,UNICEF
+South Kordofan,Kadugli,98,FSL,UN,WFP
+South Kordofan,Kadugli,98,Health,UN,WHO
+West Darfur,El Geneina,115,WASH,International NGO,ADRA
+West Darfur,El Geneina,115,WASH,International NGO,ADRA
+West Darfur,El Geneina,115,WASH,National NGO,Al Ryadh Organization
+West Darfur,El Geneina,115,FSL,International NGO,CONCERN
+West Darfur,Jebel Moon,123,FSL,International NGO,CONCERN
+West Darfur,Kereinik,125,FSL,International NGO,CONCERN
+West Darfur,Kulbus,127,FSL,International NGO,CONCERN
+West Darfur,Sirba,134,FSL,International NGO,CONCERN
+West Darfur,El Geneina,115,Health,International NGO,CONCERN
+West Darfur,Jebel Moon,123,Health,International NGO,CONCERN
+West Darfur,Kereinik,125,Health,International NGO,CONCERN
+West Darfur,El Geneina,115,Nutrition,International NGO,CONCERN
+West Darfur,Jebel Moon,123,Nutrition,International NGO,CONCERN
+West Darfur,Kereinik,125,Nutrition,International NGO,CONCERN
+West Darfur,Kulbus,127,Nutrition,International NGO,CONCERN
+West Darfur,Jebel Moon,123,WASH,International NGO,CONCERN
+West Darfur,Kereinik,125,WASH,International NGO,CONCERN
+West Darfur,Kulbus,127,WASH,International NGO,CONCERN
+West Darfur,Kulbus,127,Health,International NGO,COSV
+West Darfur,Kulbus,127,Nutrition,International NGO,COSV
+West Darfur,El Geneina,115,,International NGO,COSV
+West Darfur,El Geneina,115,CCS,International NGO,CRS
+West Darfur,El Geneina,115,Education,International NGO,CRS
+West Darfur,Sirba,134,Education,International NGO,CRS
+West Darfur,Sirba,134,Education,International NGO,CRS
+West Darfur,El Geneina,115,FSL,International NGO,CRS
+West Darfur,Foro Baranga,121,FSL,International NGO,CRS
+West Darfur,Habila,103,FSL,International NGO,CRS
+West Darfur,Jebel Moon,123,FSL,International NGO,CRS
+West Darfur,Kereinik,125,FSL,International NGO,CRS
+West Darfur,Kulbus,127,FSL,International NGO,CRS
+West Darfur,Sirba,134,FSL,International NGO,CRS
+West Darfur,El Geneina,115,NFI,International NGO,CRS
+West Darfur,Foro Baranga,121,NFI,International NGO,CRS
+West Darfur,Habila,103,NFI,International NGO,CRS
+West Darfur,Kereinik,125,NFI,International NGO,CRS
+West Darfur,Sirba,134,NFI,International NGO,CRS
+West Darfur,Habila,103,Nutrition,International NGO,CRS
+West Darfur,Kereinik,125,Nutrition,International NGO,CRS
+West Darfur,Sirba,134,Nutrition,International NGO,CRS
+West Darfur,Habila,103,RRR,International NGO,CRS
+West Darfur,Beida,111,FSL,UN,FAO
+West Darfur,El Geneina,115,FSL,UN,FAO
+West Darfur,Foro Baranga,121,FSL,UN,FAO
+West Darfur,Habila,103,FSL,UN,FAO
+West Darfur,Jebel Moon,123,FSL,UN,FAO
+West Darfur,Kereinik,125,FSL,UN,FAO
+West Darfur,Kulbus,127,FSL,UN,FAO
+West Darfur,Sirba,134,FSL,UN,FAO
+West Darfur,Habila,103,RRR,International NGO,FAR
+West Darfur,El Geneina,115,,International NGO,FAR
+West Darfur,El Geneina,115,FSL,International NGO,HAI
+West Darfur,Habila,103,FSL,International NGO,HAI
+West Darfur,Kereinik,125,FSL,International NGO,HAI
+West Darfur,El Geneina,115,Health,International NGO,HAI
+West Darfur,Habila,103,Health,International NGO,HAI
+West Darfur,Kereinik,125,Health,International NGO,HAI
+West Darfur,El Geneina,115,NFI,International NGO,HAI
+West Darfur,Habila,103,NFI,International NGO,HAI
+West Darfur,Kereinik,125,NFI,International NGO,HAI
+West Darfur,El Geneina,115,Nutrition,International NGO,HAI
+West Darfur,Habila,103,Nutrition,International NGO,HAI
+West Darfur,Kereinik,125,Nutrition,International NGO,HAI
+West Darfur,El Geneina,115,Protection,International NGO,HAI
+West Darfur,Habila,103,Protection,International NGO,HAI
+West Darfur,Kereinik,125,Protection,International NGO,HAI
+West Darfur,El Geneina,115,WASH,International NGO,IAS
+West Darfur,Sirba,134,WASH,International NGO,IAS
+West Darfur,Beida,111,Education,International NGO,IMC
+West Darfur,El Geneina,115,Education,International NGO,IMC
+West Darfur,Sirba,134,Education,International NGO,IMC
+West Darfur,Beida,111,Health,International NGO,IMC
+West Darfur,El Geneina,115,Health,International NGO,IMC
+West Darfur,Kereinik,125,Health,International NGO,IMC
+West Darfur,Sirba,134,Health,International NGO,IMC
+West Darfur,Beida,111,Nutrition,International NGO,IMC
+West Darfur,Beida,111,WASH,International NGO,IMC
+West Darfur,El Geneina,115,WASH,International NGO,IMC
+West Darfur,Sirba,134,WASH,International NGO,IMC
+West Darfur,Foro Baranga,121,Education,International NGO,INTERSOS
+West Darfur,Habila,103,Education,International NGO,INTERSOS
+West Darfur,Foro Baranga,121,NFI,International NGO,INTERSOS
+West Darfur,Habila,103,NFI,International NGO,INTERSOS
+West Darfur,El Geneina,115,,International NGO,INTERSOS
+West Darfur,Beida,111,RRR,UN,IOM
+West Darfur,El Geneina,115,RRR,UN,IOM
+West Darfur,Foro Baranga,121,RRR,UN,IOM
+West Darfur,Habila,103,RRR,UN,IOM
+West Darfur,Jebel Moon,123,RRR,UN,IOM
+West Darfur,Kereinik,125,RRR,UN,IOM
+West Darfur,Kulbus,127,RRR,UN,IOM
+West Darfur,Sirba,134,RRR,UN,IOM
+West Darfur,El Geneina,115,CCS,International NGO,IRW
+West Darfur,Beida,111,Education,International NGO,IRW
+West Darfur,El Geneina,115,Education,International NGO,IRW
+West Darfur,Kereinik,125,Education,International NGO,IRW
+West Darfur,Beida,111,FSL,International NGO,IRW
+West Darfur,Kereinik,125,FSL,International NGO,IRW
+West Darfur,Beida,111,Health,International NGO,IRW
+West Darfur,El Geneina,115,Health,International NGO,IRW
+West Darfur,Kereinik,125,Health,International NGO,IRW
+West Darfur,El Geneina,115,NFI,International NGO,IRW
+West Darfur,Beida,111,WASH,International NGO,IRW
+West Darfur,El Geneina,115,WASH,International NGO,IRW
+West Darfur,Kereinik,125,WASH,International NGO,IRW
+West Darfur,Jebel Moon,123,Health,International NGO,MSF-Switzerland
+West Darfur,Kulbus,127,Health,International NGO,MSF-Switzerland
+West Darfur,Sirba,134,Health,International NGO,MSF-Switzerland
+West Darfur,El Geneina,115,CCS,UN,OCHA
+West Darfur,El Geneina,115,FSL,International NGO,QATAR RCS
+West Darfur,El Geneina,115,RRR,International NGO,QATAR RCS
+West Darfur,El Geneina,115,,International NGO,QATAR RCS
+West Darfur,El Geneina,115,Education,International NGO,SC-S
+West Darfur,Foro Baranga,121,Education,International NGO,SC-S
+West Darfur,Habila,103,Education,International NGO,SC-S
+West Darfur,Kereinik,125,Education,International NGO,SC-S
+West Darfur,Habila,103,FSL,International NGO,SC-S
+West Darfur,Kereinik,125,FSL,International NGO,SC-S
+West Darfur,El Geneina,115,Health,International NGO,SC-S
+West Darfur,Foro Baranga,121,Health,International NGO,SC-S
+West Darfur,Habila,103,Health,International NGO,SC-S
+West Darfur,Kereinik,125,Health,International NGO,SC-S
+West Darfur,Foro Baranga,121,Nutrition,International NGO,SC-S
+West Darfur,Habila,103,Nutrition,International NGO,SC-S
+West Darfur,Kereinik,125,Nutrition,International NGO,SC-S
+West Darfur,Beida,111,Protection,International NGO,SC-S
+West Darfur,El Geneina,115,Protection,International NGO,SC-S
+West Darfur,Foro Baranga,121,Protection,International NGO,SC-S
+West Darfur,Habila,103,Protection,International NGO,SC-S
+West Darfur,Kereinik,125,Protection,International NGO,SC-S
+West Darfur,Sirba,134,Protection,International NGO,SC-S
+West Darfur,Beida,111,WASH,International NGO,SC-S
+West Darfur,Foro Baranga,121,WASH,International NGO,SC-S
+West Darfur,Habila,103,WASH,International NGO,SC-S
+West Darfur,Kereinik,125,WASH,International NGO,SC-S
+West Darfur,Sirba,134,WASH,International NGO,SC-S
+West Darfur,El Geneina,115,FSL,International NGO,TGH
+West Darfur,El Geneina,115,WASH,International NGO,TGH
+West Darfur,El Geneina,115,FSL,UN,UNDP
+West Darfur,El Geneina,115,Health,UN,UNDP
+West Darfur,Beida,111,RRR,UN,UNDP
+West Darfur,El Geneina,115,RRR,UN,UNDP
+West Darfur,Foro Baranga,121,RRR,UN,UNDP
+West Darfur,Habila,103,RRR,UN,UNDP
+West Darfur,Jebel Moon,123,RRR,UN,UNDP
+West Darfur,Kereinik,125,RRR,UN,UNDP
+West Darfur,Kulbus,127,RRR,UN,UNDP
+West Darfur,Sirba,134,RRR,UN,UNDP
+West Darfur,Beida,111,CCS,UN,UNDSS
+West Darfur,El Geneina,115,CCS,UN,UNDSS
+West Darfur,Foro Baranga,121,CCS,UN,UNDSS
+West Darfur,Habila,103,CCS,UN,UNDSS
+West Darfur,Jebel Moon,123,CCS,UN,UNDSS
+West Darfur,Kereinik,125,CCS,UN,UNDSS
+West Darfur,Kulbus,127,CCS,UN,UNDSS
+West Darfur,Sirba,134,CCS,UN,UNDSS
+West Darfur,Beida,111,Health,UN,UNFPA
+West Darfur,El Geneina,115,Health,UN,UNFPA
+West Darfur,Foro Baranga,121,Health,UN,UNFPA
+West Darfur,Habila,103,Health,UN,UNFPA
+West Darfur,Jebel Moon,123,Health,UN,UNFPA
+West Darfur,Kereinik,125,Health,UN,UNFPA
+West Darfur,Kulbus,127,Health,UN,UNFPA
+West Darfur,Sirba,134,Health,UN,UNFPA
+West Darfur,Beida,111,Protection,UN,UNFPA
+West Darfur,El Geneina,115,Protection,UN,UNFPA
+West Darfur,Foro Baranga,121,Protection,UN,UNFPA
+West Darfur,Habila,103,Protection,UN,UNFPA
+West Darfur,Jebel Moon,123,Protection,UN,UNFPA
+West Darfur,Kereinik,125,Protection,UN,UNFPA
+West Darfur,Sirba,134,Protection,UN,UNFPA
+West Darfur,Kereinik,125,FSL,UN,UNHCR
+West Darfur,Beida,111,NFI,UN,UNHCR
+West Darfur,El Geneina,115,NFI,UN,UNHCR
+West Darfur,Foro Baranga,121,NFI,UN,UNHCR
+West Darfur,Habila,103,NFI,UN,UNHCR
+West Darfur,Jebel Moon,123,NFI,UN,UNHCR
+West Darfur,Kereinik,125,NFI,UN,UNHCR
+West Darfur,Sirba,134,NFI,UN,UNHCR
+West Darfur,Beida,111,Protection,UN,UNHCR
+West Darfur,El Geneina,115,Protection,UN,UNHCR
+West Darfur,Foro Baranga,121,Protection,UN,UNHCR
+West Darfur,Habila,103,Protection,UN,UNHCR
+West Darfur,Jebel Moon,123,Protection,UN,UNHCR
+West Darfur,Kereinik,125,Protection,UN,UNHCR
+West Darfur,Kulbus,127,Protection,UN,UNHCR
+West Darfur,Sirba,134,Protection,UN,UNHCR
+West Darfur,Beida,111,RRR,UN,UNHCR
+West Darfur,El Geneina,115,RRR,UN,UNHCR
+West Darfur,Foro Baranga,121,RRR,UN,UNHCR
+West Darfur,Habila,103,RRR,UN,UNHCR
+West Darfur,Jebel Moon,123,RRR,UN,UNHCR
+West Darfur,Kereinik,125,RRR,UN,UNHCR
+West Darfur,Kulbus,127,RRR,UN,UNHCR
+West Darfur,Sirba,134,RRR,UN,UNHCR
+West Darfur,Beida,111,Education,UN,UNICEF
+West Darfur,El Geneina,115,Education,UN,UNICEF
+West Darfur,Foro Baranga,121,Education,UN,UNICEF
+West Darfur,Habila,103,Education,UN,UNICEF
+West Darfur,Jebel Moon,123,Education,UN,UNICEF
+West Darfur,Kereinik,125,Education,UN,UNICEF
+West Darfur,Kulbus,127,Education,UN,UNICEF
+West Darfur,Sirba,134,Education,UN,UNICEF
+West Darfur,Beida,111,Health,UN,UNICEF
+West Darfur,El Geneina,115,Health,UN,UNICEF
+West Darfur,Foro Baranga,121,Health,UN,UNICEF
+West Darfur,Habila,103,Health,UN,UNICEF
+West Darfur,Jebel Moon,123,Health,UN,UNICEF
+West Darfur,Kereinik,125,Health,UN,UNICEF
+West Darfur,Kulbus,127,Health,UN,UNICEF
+West Darfur,Sirba,134,Health,UN,UNICEF
+West Darfur,Beida,111,Nutrition,UN,UNICEF
+West Darfur,El Geneina,115,Nutrition,UN,UNICEF
+West Darfur,Foro Baranga,121,Nutrition,UN,UNICEF
+West Darfur,Habila,103,Nutrition,UN,UNICEF
+West Darfur,Jebel Moon,123,Nutrition,UN,UNICEF
+West Darfur,Kereinik,125,Nutrition,UN,UNICEF
+West Darfur,Kulbus,127,Nutrition,UN,UNICEF
+West Darfur,Sirba,134,Nutrition,UN,UNICEF
+West Darfur,Beida,111,WASH,UN,UNICEF
+West Darfur,El Geneina,115,WASH,UN,UNICEF
+West Darfur,Foro Baranga,121,WASH,UN,UNICEF
+West Darfur,Habila,103,WASH,UN,UNICEF
+West Darfur,Jebel Moon,123,WASH,UN,UNICEF
+West Darfur,Kereinik,125,WASH,UN,UNICEF
+West Darfur,Kulbus,127,WASH,UN,UNICEF
+West Darfur,Sirba,134,WASH,UN,UNICEF
+West Darfur,Beida,111,Education,International NGO,WAR CHILD
+West Darfur,El Geneina,115,Education,International NGO,WAR CHILD
+West Darfur,Foro Baranga,121,Education,International NGO,WAR CHILD
+West Darfur,Habila,103,Education,International NGO,WAR CHILD
+West Darfur,Jebel Moon,123,Education,International NGO,WAR CHILD
+West Darfur,Kereinik,125,Education,International NGO,WAR CHILD
+West Darfur,Kulbus,127,Education,International NGO,WAR CHILD
+West Darfur,Sirba,134,Education,International NGO,WAR CHILD
+West Darfur,Beida,111,FSL,International NGO,WAR CHILD
+West Darfur,El Geneina,115,FSL,International NGO,WAR CHILD
+West Darfur,Foro Baranga,121,FSL,International NGO,WAR CHILD
+West Darfur,Habila,103,FSL,International NGO,WAR CHILD
+West Darfur,Jebel Moon,123,FSL,International NGO,WAR CHILD
+West Darfur,Kereinik,125,FSL,International NGO,WAR CHILD
+West Darfur,Kulbus,127,FSL,International NGO,WAR CHILD
+West Darfur,Sirba,134,FSL,International NGO,WAR CHILD
+West Darfur,Beida,111,RRR,International NGO,WAR CHILD
+West Darfur,El Geneina,115,RRR,International NGO,WAR CHILD
+West Darfur,Foro Baranga,121,RRR,International NGO,WAR CHILD
+West Darfur,Habila,103,RRR,International NGO,WAR CHILD
+West Darfur,Jebel Moon,123,RRR,International NGO,WAR CHILD
+West Darfur,Kereinik,125,RRR,International NGO,WAR CHILD
+West Darfur,Kulbus,127,RRR,International NGO,WAR CHILD
+West Darfur,Sirba,134,RRR,International NGO,WAR CHILD
+West Darfur,Beida,111,Education,UN,WFP
+West Darfur,El Geneina,115,Education,UN,WFP
+West Darfur,Foro Baranga,121,Education,UN,WFP
+West Darfur,Habila,103,Education,UN,WFP
+West Darfur,Kereinik,125,Education,UN,WFP
+West Darfur,Kulbus,127,Education,UN,WFP
+West Darfur,Sirba,134,Education,UN,WFP
+West Darfur,Beida,111,FSL,UN,WFP
+West Darfur,El Geneina,115,FSL,UN,WFP
+West Darfur,Foro Baranga,121,FSL,UN,WFP
+West Darfur,Habila,103,FSL,UN,WFP
+West Darfur,Jebel Moon,123,FSL,UN,WFP
+West Darfur,Kereinik,125,FSL,UN,WFP
+West Darfur,Kulbus,127,FSL,UN,WFP
+West Darfur,Sirba,134,FSL,UN,WFP
+West Darfur,Beida,111,LET,UN,WFP
+West Darfur,El Geneina,115,LET,UN,WFP
+West Darfur,Foro Baranga,121,LET,UN,WFP
+West Darfur,Habila,103,LET,UN,WFP
+West Darfur,Jebel Moon,123,LET,UN,WFP
+West Darfur,Kereinik,125,LET,UN,WFP
+West Darfur,Kulbus,127,LET,UN,WFP
+West Darfur,Sirba,134,LET,UN,WFP
+West Darfur,El Geneina,115,Nutrition,UN,WFP
+West Darfur,Foro Baranga,121,Nutrition,UN,WFP
+West Darfur,Habila,103,Nutrition,UN,WFP
+West Darfur,Jebel Moon,123,Nutrition,UN,WFP
+West Darfur,Kereinik,125,Nutrition,UN,WFP
+West Darfur,Beida,111,Health,UN,WHO
+West Darfur,El Geneina,115,Health,UN,WHO
+West Darfur,Foro Baranga,121,Health,UN,WHO
+West Darfur,Habila,103,Health,UN,WHO
+West Darfur,Jebel Moon,123,Health,UN,WHO
+West Darfur,Kereinik,125,Health,UN,WHO
+West Darfur,Kulbus,127,Health,UN,WHO
+West Darfur,Sirba,134,Health,UN,WHO
+West Darfur,Kereinik,125,FSL,International NGO,WR
+West Darfur,Kulbus,127,FSL,International NGO,WR
+West Darfur,El Geneina,115,Health,International NGO,WR
+West Darfur,Kereinik,125,Health,International NGO,WR
+West Darfur,Sirba,134,Health,International NGO,WR
+West Darfur,El Geneina,115,Nutrition,International NGO,WR
+West Darfur,Kereinik,125,Nutrition,International NGO,WR
+West Darfur,Sirba,134,Nutrition,International NGO,WR
+West Darfur,Kereinik,125,WASH,International NGO,WR
+West Darfur,Kulbus,127,WASH,International NGO,WR
+West Darfur,Sirba,134,WASH,International NGO,WR
+West Kordofan,Abyei locality,87,FSL,National NGO,Anganto
+West Kordofan,Abyei locality,87,FSL,National NGO,Anganto
+West Kordofan,Aldebab,87,FSL,National NGO,Anganto
+West Kordofan,Aldebab,87,FSL,National NGO,Anganto
+West Kordofan,Babanousa,100,FSL,National NGO,Anganto
+West Kordofan,Babanousa,100,FSL,National NGO,Anganto
+West Kordofan,El Salam ,86,FSL,National NGO,Anganto
+West Kordofan,Abyei locality,87,WASH,National NGO,Blady
+West Kordofan,Muglad,100,Health,International NGO,CONCERN
+West Kordofan,Muglad ,100,Health,International NGO,CONCERN
+West Kordofan,Muglad,100,NFI,International NGO,CONCERN
+West Kordofan,Muglad ,100,NFI,International NGO,CONCERN
+West Kordofan,Muglad,100,Nutrition,International NGO,CONCERN
+West Kordofan,Muglad ,100,Nutrition,International NGO,CONCERN
+West Kordofan,Abyei locality,87,Education,National NGO,El Goni
+West Kordofan,Aldebab,87,Education,National NGO,El Goni
+West Kordofan,Merum,#N/A,Education,National NGO,El Goni
+West Kordofan,Muglad,100,Education,National NGO,El Goni
+West Kordofan,Abyei locality,87,Nutrition,National NGO,El Goni
+West Kordofan,Aldebab,87,Nutrition,National NGO,El Goni
+West Kordofan,Merum,#N/A,Nutrition,National NGO,El Goni
+West Kordofan,Muglad,100,Nutrition,National NGO,El Goni
+West Kordofan,Abyei locality,87,Protection,National NGO,El Goni
+West Kordofan,Aldebab,87,Protection,National NGO,El Goni
+West Kordofan,Merum,#N/A,Protection,National NGO,El Goni
+West Kordofan,Muglad,100,Protection,National NGO,El Goni
+West Kordofan,Aldebab,87,FSL,International NGO,GAA
+West Kordofan,Lagawa,102,FSL,International NGO,GAA
+West Kordofan,Lagawa,102,FSL,International NGO,GAA
+West Kordofan,Abyei locality,87,Education,National NGO,GAH
+West Kordofan,Abyei locality,87,Health,National NGO,GAH
+West Kordofan,Abyei locality,87,WASH,National NGO,GAH
+West Kordofan,Lagawa,102,FSL,International NGO,GHH
+West Kordofan,Lagawa,102,FSL,National NGO,GPBC
+West Kordofan,Lagawa,102,FSL,National NGO,GPBC
+West Kordofan,Elfola,86,Education,National NGO,HSIO
+West Kordofan,Elfola,86,Education,National NGO,HSIO
+West Kordofan,Elfola,86,Health,National NGO,HSIO
+West Kordofan,Elfola,86,Health,National NGO,HSIO
+West Kordofan,Elfola,86,WASH,National NGO,HSIO
+West Kordofan,Elfola,86,WASH,National NGO,HSIO
+West Kordofan,El Salam ,86,RRR,UN,IOM 
+West Kordofan,Muglad,100,Education,National NGO,Mubadiroon
+West Kordofan,Muglad,100,FSL,National NGO,Mubadiroon
+West Kordofan,Muglad,100,Health,National NGO,Mubadiroon
+West Kordofan,El Salam ,86,Education,International NGO,SC-S
+West Kordofan,El Salam ,86,Health,International NGO,SC-S
+West Kordofan,El Salam ,86,Nutrition,International NGO,SC-S
+West Kordofan,El Salam ,86,Protection,International NGO,SC-S
+West Kordofan,El Salam ,86,WASH,International NGO,SC-S
+West Kordofan,Abyei locality,87,FSL,National NGO,SECS
+West Kordofan,Abyei locality,87,FSL,National NGO,SECS
+West Kordofan,Aldebab,87,FSL,National NGO,Shabab Lagawa 
+West Kordofan,Kailak,85,FSL,National NGO,Shabab Lagawa 
+West Kordofan,Lagawa,102,FSL,National NGO,Shabab Lagawa 
+West Kordofan,Sunut,92,FSL,National NGO,Shabab Lagawa 
+West Kordofan,Aldebab,87,Health,National NGO,Shabab Lagawa 
+West Kordofan,Kailak,85,Health,National NGO,Shabab Lagawa 
+West Kordofan,Lagawa,102,Health,National NGO,Shabab Lagawa 
+West Kordofan,Sunut,92,Health,National NGO,Shabab Lagawa 
+West Kordofan,Aldebab,87,Protection,National NGO,Shabab Lagawa 
+West Kordofan,Kailak,85,Protection,National NGO,Shabab Lagawa 
+West Kordofan,Lagawa,102,Protection,National NGO,Shabab Lagawa 
+West Kordofan,Sunut,92,Protection,National NGO,Shabab Lagawa 
+West Kordofan,Elfola,86,Health,National NGO,Sibro
+West Kordofan,Elfola,86,Mine Action,National NGO,Sibro
+West Kordofan,Elfola,86,Nutrition,National NGO,Sibro
+West Kordofan,Elfola,86,Protection,National NGO,Sibro
+West Kordofan,Lagawa,102,Education,National NGO,SOLO
+West Kordofan,Muglad,100,FSL,National NGO,SOS Sahel
+West Kordofan,Muglad,100,NFI,National NGO,SOS Sahel
+West Kordofan,Muglad,100,WASH,National NGO,SOS Sahel
+West Kordofan,El Salam ,86,Protection,UN,UNICEF 
+West Kordofan,El Salam ,86,FSL,International NGO,VSF
+White Nile,Kosti,47,Health,National NGO,Afag
+White Nile,Kosti,47,WASH,National NGO,Afag
+White Nile,Kosti,47,Protection,National NGO,Child Right
+White Nile,Kosti,47,Protection,National NGO,Elbir Charity
+White Nile,Kosti,47,Health,National NGO,FPWA
+White Nile,Kosti,47,NFI,National NGO,GIMAM
+White Nile,Kosti,47,Education,National NGO,SDCO
+White Nile,Kosti,47,Education,National NGO,SOLO
+White Nile,Kosti,47,Health,National NGO,SRCS
+White Nile,Kosti,47,WASH,National NGO,SRCS
+White Nile,Kosti,47,Health,UN,UNFPA
+White Nile,Kosti,47,Protection,UN,UNFPA
+White Nile,Kosti,47,Education,UN,UNICEF
+White Nile,Kosti,47,Nutrition,UN,UNICEF
+White Nile,Kosti,47,WASH,UN,UNICEF
