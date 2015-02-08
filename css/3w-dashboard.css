@@ -14,6 +14,17 @@
     fill-opacity: 1;
 }
 
+.dc-chart .pie-slice {
+    fill: #E8E6E6;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.dc-chart g.row text {
+    fill: #E8E6E6;
+    font-size: 12px;
+    cursor: pointer;
+}
 /*
  * Page specific styles
  */
