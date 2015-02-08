@@ -1,0 +1,172 @@
+LID,STATE,LOCALITY,Need,Assessed_Needs
+1,Khartoum,Jabal Aulia,4,High
+2,Khartoum,Umm Badda,4,High
+3,Khartoum,Khartoum North,3,Medium
+4,Khartoum,Sharq El Nile,3,Medium
+5,Khartoum,Karari,3,Medium
+6,Khartoum,Um Durman,3,Medium
+7,Khartoum,Khartoum,3,Medium
+8,Nile,Abu Hamed,2,Low
+9,Nile,El Matammah,3,Medium
+10,Nile,Shendi,2,Low
+11,Nile,Ed Damer,3,Medium
+12,Nile,Atbara,2,Low
+13,Nile,Barbar,3,Medium
+14,Northern,Halfa,2,Low
+15,Northern,Dalgo,2,Low
+16,Northern,Alborgag,2,Low
+17,Northern,Dongola,2,Low
+18,Northern,Algolid,2,Low
+19,Northern,Al Daba,2,Low
+20,Northern,Merawi,2,Low
+21,North Kordofan,Ghubaysh,3,Medium
+22,North Kordofan,El Nehoud,3,Medium
+23,North Kordofan,Um Rawaba,3,Medium
+24,North Kordofan,Shiekan,3,Medium
+25,North Kordofan,Sodari,3,Medium
+26,North Kordofan,Bara,3,Medium
+27,North Kordofan,Jebrat El Sheikh,4,High
+28,North Kordofan,Abu Zabad,3,Medium
+30,Al Gezira,Greater Wad Madani,2,Low
+31,Al Gezira,Southern El Gezira,2,Low
+32,Al Gezira,Um El Qura,2,Low
+33,Al Gezira,Eastern El Gezira,2,Low
+34,Al Gezira,El Hasaheesa,2,Low
+35,Al Gezira,El Kamleen,2,Low
+36,Al Gezira,El Manageel,3,Medium
+37,Sennar,Abu Houjar,3,Medium
+38,Sennar,Sennar,2,Low
+39,Sennar,EL Dali,3,Medium
+40,Sennar,El Dindir,3,Medium
+41,Sennar,El Souki,3,Medium
+42,Sennar,Eastern Sennar,3,Medium
+43,Sennar,Singa,3,Medium
+44,White Nile,El Douiem,3,Medium
+45,White Nile,Umm Ramtta,3,Medium
+46,White Nile,Rabak,3,Medium
+47,White Nile,Kosti,3,Medium
+48,White Nile,Tendalti,3,Medium
+49,White Nile,El Salam,4,High
+50,White Nile,El Gutaina,3,Medium
+51,White Nile,El Jabalian,4,High
+52,Kassala,Halfa El Jadeeda,2,Low
+53,Kassala,Kassala,3,Medium
+54,Kassala,Western Kassala,3,Medium
+55,Kassala,Aroma,4,High
+56,Kassala,Rural Kassala,4,High
+57,Kassala,North Delta,3,Medium
+58,Kassala,Hamashkoreib,4,High
+59,Kassala,Telkok,4,High
+60,Kassala,Khashm Ghirba,3,Medium
+61,Kassala,Wad EL Helew,4,High
+62,Kassala,Atbara River,3,Medium
+63,Red Sea,Dordeb,3,Medium
+64,Red Sea,Port Sudan,3,Medium
+65,Red Sea,Tokar,3,Medium
+66,Red Sea,Halayeb,3,Medium
+67,Red Sea,Jabiet Al Maadin,3,Medium
+68,Red Sea,Suakin,3,Medium
+69,Red Sea,El Qaneb,3,Medium
+70,Red Sea,Haya,4,High
+71,Red Sea,Sinkat,3,Medium
+72,Red Sea,Agig,3,Medium
+73,Gedaref,El Butana,3,Medium
+74,Gedaref,El Faw,2,Low
+75,Gedaref,El Fashaga,3,Medium
+76,Gedaref,Al Quresha,3,Medium
+77,Gedaref,Basonda,3,Medium
+78,Gedaref,Western El Galabat,3,Medium
+79,Gedaref,Qala El Nahal,3,Medium
+80,Gedaref,Gedaref,2,Low
+81,Gedaref,Middle Gedaref,3,Medium
+82,Gedaref,Al Mafaza,3,Medium
+83,Gedaref,Eastern El Galabat,4,High
+84,Gedaref,EL Rahad,3,Medium
+85,South Kordofan,Keilak,4,High
+86,South Kordofan,El Salam,4,High
+87,South Kordofan,Abyei,4,High
+88,South Kordofan,Abu Jubaiha,4,High
+89,South Kordofan,Talodi,4,High
+89,South Kordofan,Talodi,4,High
+90,South Kordofan,El Abassiya,3,Medium
+91,South Kordofan,Umm Durein,3,Medium
+92,South Kordofan,Al Sunut,3,Medium
+93,South Kordofan,Rashad,4,High
+94,South Kordofan,Al Qoz,3,Medium
+95,South Kordofan,Dilling,3,Medium
+96,South Kordofan,Heiban,3,Medium
+97,South Kordofan,Reif Ashargi,3,Medium
+98,South Kordofan,Kadugli,4,High
+99,South Kordofan,Al Buram,3,Medium
+100,South Kordofan,Babanusa,4,High
+102,South Kordofan,Lagawa,3,Medium
+103,South Kordofan,Habila,3,Medium
+104,Blue Nile,Bau,4,High
+105,Blue Nile,El Damazine,4,High
+106,Blue Nile,El Kurumuk,4,High
+107,Blue Nile,EL Roseires,3,Medium
+108,Blue Nile,Al Tadamon,4,High
+109,Blue Nile,Geissan,4,High
+110,Central Darfur,Azum,4,High
+111,West Darfur,Beida,3,Medium
+112,Central Darfur,Bindisi,3,Medium
+113,North Darfur,Dar El Salam,4,High
+114,North Darfur,El Fasher,4,High
+115,West Darfur,El Geneina,4,High
+116,North Darfur,El Kuma,3,Medium
+117,North Darfur,El Malha,4,High
+118,North Darfur,El Sireaf,4,High
+119,North Darfur,El Taweisha,3,Medium
+120,North Darfur,Um Buru,4,High
+121,West Darfur,Foro Baranga,4,High
+122,West Darfur,Habila,4,High
+123,West Darfur,Jebel Moon,4,High
+124,North Darfur,Kebkabiya,4,High
+125,West Darfur,Kreinik,4,High
+126,North Darfur,Kalimendo,3,Medium
+127,West Darfur,Kulbus,3,Medium
+128,North Darfur,Kutum,4,High
+129,North Darfur,Mellit,4,High
+130,Central Darfur,Mukjar,3,Medium
+131,Central Darfur,Nertiti,4,High
+132,Central Darfur,Rokoro,4,High
+133,North Darfur,Saraf Omra,4,High
+134,West Darfur,Sirba,4,High
+135,Central Darfur,Umm Dukhun,4,High
+136,North Darfur,Umm Keddada,3,Medium
+137,Central Darfur,Wadi Salih,3,Medium
+138,Central Darfur,Zalingei,4,High
+139,East Darfur,Adila,4,High
+140,East Darfur,Abu Jabra,4,High
+141,South Darfur,El Radoom,3,Medium
+142,East Darfur,Ed Daein,4,High
+143,South Darfur,Ed El Fursan,4,High
+144,South Darfur,Kass,4,High
+145,South Darfur,Marshang,4,High
+146,South Darfur,Um Dafug,4,High
+147,South Darfur,Sharg Jabel Marra,4,High
+148,East Darfur,Sheiria,4,High
+149,South Darfur,Tullus,3,Medium
+150,South Darfur,Alwehda,3,Medium
+151,South Darfur,Niteaga,4,High
+152,East Darfur,El Ferdous,4,High
+153,South Darfur,Gereida,3,Medium
+154,South Darfur,Shattai,4,High
+155,East Darfur,Abu Karinka,4,High
+156,South Darfur,Sunta,3,Medium
+157,South Darfur,Kubum,3,Medium
+158,South Darfur,Rahad El Berdi,4,High
+159,South Darfur,Katayla,4,High
+160,East Darfur,Bahr El Arab,4,High
+161,South Darfur,Buram,3,Medium
+162,South Darfur,Bielel,4,High
+163,East Darfur,Assalaya,4,High
+164,South Darfur,Nyala North,4,High
+165,East Darfur,Yassin,4,High
+166,South Darfur,El Salam,4,High
+167,South Darfur,Nyala,4,High
+168,North Darfur,Kornoi,4,High
+169,North Darfur,Ailliet,4,High
+170,North Darfur,Tawilla,4,High
+171,North Darfur,El Tina,3,Medium
+172,South Darfur,Dimsu,3,Medium
