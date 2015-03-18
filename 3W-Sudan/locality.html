@@ -1,0 +1,423 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <!--[if IE]>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <![endif]-->
+
+     <style>
+        @import url(//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.2/leaflet.css);
+        @import url(../style.css?aea6f0a);
+
+        path {
+              /*fill: #000;
+              fill-opacity: .2;*/
+              stroke: #fff;
+              stroke-width: 0.5px;
+          }
+
+          }
+    </style>
+        
+    <title>OCHA Sudan 3W Dashboard</title>
+    <!-- BOOTSTRAP CORE STYLE  -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet" />
+    <!-- FONT AWESOME STYLE  -->
+    <link href="assets/css/font-awesome.css" rel="stylesheet" />
+    <!-- CUSTOM STYLE  -->
+    <link href="assets/css/style.css" rel="stylesheet" />
+    <!-- GOOGLE FONT -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+
+    <link rel="stylesheet" type="text/css" href="assets/css/dc.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/css/3w-dashboard.css"/>
+
+
+</head>
+<body>
+    <div class="navbar navbar-inverse set-radius-zero" >
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://www.unocha.org/sudan/" target="_blank">
+
+                    <img src="assets/img/logo.png" />
+                </a>
+
+            </div>
+
+            <div class="right-div">
+                <a href="http://www.humanitarianresponse.info/home" class="btn btn-danger pull-right" target="_blank">HR.info</a>
+            </div>
+        </div>
+    </div>
+    <!-- LOGO HEADER END-->
+
+    <section class="menu-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="navbar-collapse collapse ">
+                        <ul id="menu-top" class="nav navbar-nav navbar-right">
+
+                            <li><a href="index.html">Overview</a></li>
+                             
+                            <li><a href="locality.html" class="menu-top-active">3W Locality Dashboard</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+     <!-- MENU SECTION END-->
+
+    <div class="content-wrapper">
+         <div class="container">
+            <div class="row pad-botm">
+                <div class="col-md-12">
+                    <h4 class="header-line" style="color:#FF9F19">OCHA Sudan - Who does What Where - Presence Dashboard</h4>
+                    
+                                </div>
+            </div>     
+
+            <div class="row">
+            
+                    <div class="col-md-3 col-sm-3 col-xs-6">
+                          <div class="alert alert-info back-widget-set text-center">
+                                <i class="fa fa-child fa-5x"></i>
+                                <h3><strong>11&nbsp; Sectors</strong></h3>
+                               Active In 2015
+                          </div>
+                        </div>
+                  <div class="col-md-3 col-sm-3 col-xs-6">
+                          <div class="alert alert-success back-widget-set text-center">
+                                <i class="fa fa-users fa-5x"></i>
+                                <h3><strong>112 Organisations</strong></h3>
+                                Appealing for HRP In 2015
+                            </div>
+                        </div>
+                   <div class="col-md-3 col-sm-3 col-xs-6">
+                          <div class="alert alert-danger back-widget-set text-center">
+                                <i class="fa fa-folder-open fa-5x"></i>
+                                <h3><strong>347 Projects</strong></h3>
+                                Planned In 2015
+                            </div>
+                        </div>     
+                   <div class="col-md-3 col-sm-3 col-xs-6">
+                          <div class="alert alert-warning back-widget-set text-center">
+                                <i class="fa fa-cogs fa-5x"></i>
+                                <h3><strong>5,540 Aid Workers</strong></h3>
+                               In <strong style="color:#E5A67F">59</strong> UN/IO/INGOs Across Darfur
+                            </div>
+                        </div>
+
+             </div>              
+
+            <div class="row">
+                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="alert alert-info text-center">
+                        <div class="panel-body">
+                          <p class="alert alert-success" style="text-align: left">
+                        Who, what, and where (3W) organization presence in Sudan as December 2014. <br />
+                        <strong style="color:#E5A67F"> Hover/click,</strong> on the chart segments or the map for more information.
+                        <a href="http://www.humanitarianresponse.info/operations/sudan" target="_blank" > Click here</a> to export data.
+                        </p>  
+                          
+                          <strong>Organization Type (Who)</strong>
+                          <div id="status"></div>
+                          <strong>Sector (What)</strong>
+                          <div id="sector"></div>
+                          <strong>Organisation Name (who)</strong>
+                          <div id="orgs"></div>
+                          <small style="color:#3c763d">*Top 15 organizations</small>
+                          <hr />
+                          <a class="btn btn-info" id="reset" href="javascript:dc.filterAll();dc.redrawAll();">Reset All</a>
+
+                        </div>    
+                     </div>   
+                </div>    
+               
+               <div class="col-md-8 col-sm-8 col-xs-12">
+                    <div class="panel panel-warning">
+                        <div class="panel-heading text-center">
+                          <strong> 3W Locality Map (Where)</strong>
+                        </div>
+                        <div class="panel-body">
+                            <div id="localityMap"></div>
+
+                            <div id = "disclaimer" style = "font-size:70%">
+                                  <p class="alert alert-warning"><small>Disclaimer: The boundaries and names shown and the designations used on this map do not imply official endorsement or acceptance by the United Nations. Final
+                                          boundary between the Republic of Sudan and the Republic of South Sudan has not yet been determined. Final status of the Abyei area is not yet determined.
+                                          Final Locality boundaries for the Kordofan States not verified.</small></p>
+                            </div>
+                        </div>    
+                     </div>   
+
+               </div>
+            </div>
+        </div>
+    </div>
+     <!-- CONTENT-WRAPPER SECTION END-->
+
+    <section class="footer-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                   &copy; 2015 UNOCHA Sudan |<a href="http://www.unocha.org/sudan/" target="_blank"  > Designed by : UNOCHA Sudan IM Team</a> 
+                </div>
+
+            </div>
+        </div>
+    </section>
+      <!-- FOOTER SECTION END-->
+
+    <!-- JAVASCRIPT FILES PLACED AT THE BOTTOM TO REDUCE THE LOADING TIME  -->
+    <!-- CORE JQUERY  -->
+    <script src="assets/js/jquery-1.10.2.js"></script>
+    <!-- BOOTSTRAP SCRIPTS  -->
+    <script src="assets/js/bootstrap.js"></script>
+      <!-- CUSTOM SCRIPTS  -->
+    <script src="assets/js/custom.js"></script>
+
+    <script type="text/javascript" src="assets/js/d3.js"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
+    <script type="text/javascript" src="assets/js/crossfilter.js"></script>
+    <script type="text/javascript" src="assets/js/dc.js"></script>
+
+
+     <!-- Javascript Code -->
+    <script>
+
+        var sector_chart = dc.pieChart("#sector");
+        var status_chart = dc.pieChart("#status");
+        var map_chart = dc.geoChoroplethChart("#localityMap");
+        var org_chart = dc.rowChart("#orgs");
+        var map2_chart = dc.geoChoroplethChart("#stateMap");
+        
+        
+        d3.csv("assets/data/3W_Data.csv", function(csv_data){
+            var cf = crossfilter(csv_data);
+            
+            cf.sector = cf.dimension(function(d) { return d.Sector; });
+            cf.status = cf.dimension(function(d) { return d.Org_Type; });
+            cf.pcode = cf.dimension(function(d) { return d.LID; });
+            cf.organisation = cf.dimension(function(d) { return d.Organisation; });
+            cf.mcode = cf.dimension(function(d) { return d.State; });
+            
+            var sector = cf.sector.group();
+            var status = cf.status.group();
+            var pcode = cf.pcode.group();
+            var organisation = cf.organisation.group();
+            var all = cf.groupAll();
+            var mcode = cf.mcode.group();
+
+            sector_chart.width(180).height(180)
+                .dimension(cf.sector)
+                .group(sector)
+                .innerRadius(10) 
+                .colors(["#00447F", 
+                         "#deebf7", 
+                         "#81C5FF", 
+                         "#08306b", 
+                         "#9ecae1", 
+                         "#6baed6", 
+                         "#4292c6", 
+                         "#2171b5", 
+                         "#08519c",
+                         "#08306b"])           
+                .colorDomain([0,9])
+                .label(function(d){return d.key;})
+                .colorAccessor(function(d, i){return i%10;});
+            
+            status_chart.width(180).height(180)
+                .dimension(cf.status)
+                .group(status)
+                .innerRadius(10)
+                .colors(['#f2f0f7',
+                        '#cbc9e2',
+                        '#9e9ac8',
+                        '#6a51a3'])
+                .colorDomain([0,4])
+                .colorAccessor(function(d, i){return i%4;});
+            
+            org_chart.width(320).height(400)
+                .dimension(cf.organisation)
+                .group(organisation)
+                .elasticX(true)
+               .data(function(group) {
+                    return group.top(15);
+                })
+                .colors(['#6a51a3'])
+                .colorDomain([0,0])
+                .colorAccessor(function(d, i){return 1;});
+                
+            dc.dataCount("#count-info")
+        .dimension(cf)
+        .group(all);
+                            
+            d3.json("assets/data/Locality.json", function (localitiesJSON) {
+
+                var locName;
+                var stateName;
+                var orgNames;
+
+                //Merge the org. data and locality GeoJSON
+                for (var j = 0; j < localitiesJSON.features.length; j++) {
+
+                    var jsonLid = localitiesJSON.features[j].properties.LID;
+                    var str = [];
+                    var s = "";
+                    var len = null;
+
+                    for (var i = 0; i < csv_data.length; i++) {
+
+                        var dataLid = csv_data[i].LID;
+                              
+
+                        if (jsonLid == dataLid) {
+
+                            str.push(csv_data[i].Organisation);
+
+                        }
+                    }
+
+                    // Remove duplicates
+                    var uniq = str.reduce(function(a,b){
+                        if (a.indexOf(b) < 0 ) a.push(b);
+                          return a;
+                        },[]);
+
+                          
+                    len = uniq.length;
+
+                    for (var r = 0; r < uniq.length; r++){
+                        s = s + uniq[r] + ", ";
+                    }
+
+                    var sTruncated = s.substring(0,s.length - 2);
+
+                    localitiesJSON.features[j].properties.Org = sTruncated;
+                    localitiesJSON.features[j].properties.OrgCount = len;  
+
+                }
+
+                map_chart.width(660).height(500)
+                    .dimension(cf.pcode)
+                    .group(pcode)
+                    .colors(d3.scale.quantize().range(["#C4E4FF", "#9ED2FF", "#81C5FF", "#6BBAFF", "#51AEFF", "#36A2FF", "#1E96FF", "#0089FF", "#0061B5"]))
+                    .colorDomain([0, 85])
+                    .overlayGeoJson(localitiesJSON.features, "Locality", function (d) {
+                        locName = d.properties.Locality;
+                        stateName = d.properties.State;
+                        orgNames = d.properties.Org;
+                        orgCount = d.properties.OrgCount;
+
+                        return String(d.properties.LID);
+                    })
+                    .colorCalculator(function (d,i) { return  d? map2_chart.colors()(d) : '#ddd'; })
+                    .projection(d3.geo.mercator().center([32.54,15.51]).scale(1700))
+                    .title(function (d) {
+                        return "State: " + stateName + "\nLocality: " + locName + "\nNumber of organization: " + orgCount + "\nOrganization name:\n" + orgNames;
+                    });
+                    
+                    d3.json("assets/data/State.json", function (stateJSON){
+                        
+                        var state;
+                        var orgCount;
+                        var stateNames;
+
+                        map2_chart.width(600).height(500)
+                            .dimension(cf.mcode)
+                            .group(mcode)
+                            .colors(d3.scale.quantize().range(["#C4E4FF", "#9ED2FF", "#81C5FF", "#6BBAFF", "#51AEFF", "#36A2FF", "#1E96FF", "#0089FF", "#0061B5"]))
+                            .colorDomain([0, 22])
+                            .overlayGeoJson(stateJSON.features, "States", function (d) {
+                                state = d.properties.STATE;
+                                orgCount = d.properties.OrgCount;
+                                stateNames = d.properties.Org;
+
+                                return d.properties.STATE;
+                            })
+                            .colorCalculator(function (d,i) { return  d? map2_chart.colors()(d) : '#ddd'; })
+                            .projection(d3.geo.mercator().center([32.54,15.51]).scale(1700))
+                            .title(function (d) { 
+
+                              var sectorFilter = sector_chart.filter();
+
+                              //Merge the org. data and state GeoJSON
+                              for (var j = 0; j < stateJSON.features.length; j++) {
+
+                                var jsonState = stateJSON.features[j].properties.STATE;
+                                var str = [];
+                                var s = "";
+                                var len = null;
+
+                                for (var i = 0; i < csv_data.length; i++) {
+
+                                    var dataState = csv_data[i].State;
+                                    var dataSector = csv_data[i].Sector;
+
+                                     if (sectorFilter){
+
+                                      if (jsonState == dataState && String(sectorFilter) == dataSector) {
+
+                                        str.push(csv_data[i].Organisation);
+
+                                      }
+
+                                     }else {
+
+                                      if (jsonState == dataState) {
+
+                                        str.push(csv_data[i].Organisation);
+
+                                      }
+
+                                     }
+                                }
+
+                                // Remove duplicates
+                                var uniq = str.reduce(function(a,b){
+                                if (a.indexOf(b) < 0 ) a.push(b);
+
+                                
+                                return a;
+                                },[]);
+
+                                
+                                len = uniq.length;
+
+                                for (var r = 0; r < uniq.length; r++){
+                                  s = s + uniq[r] + ", ";
+                                }
+
+                                var sTruncated = s.substring(0,s.length - 2);
+
+                                stateJSON.features[j].properties.Org = sTruncated;
+                                stateJSON.features[j].properties.OrgCount = len; 
+
+                              }
+
+                              return "State: " + state + "\nNumber of organizations: " + orgCount + "\nOrganizations names:\n" + stateNames;
+                            });
+                            
+                            //$('#map2').show();
+                            dc.renderAll();
+                    });                    
+                });            
+        });
+      
+    </script>
+
+</body>
+</html>
