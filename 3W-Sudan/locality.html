@@ -245,7 +245,7 @@
                 .label(function(d){return d.key;})
                 .colorAccessor(function(d, i){return i%10;})
                 .title(function (d) {
-                        return d.key + " have " + d.value + " geographical occurrences";
+                        return d.value + " " + d.key + " Partners Geographical \nPresence Frequency";
                     });
             
             status_chart.width(180).height(180)
@@ -259,7 +259,7 @@
                 .colorDomain([0,4])
                 .colorAccessor(function(d, i){return i%4;})
                 .title(function (d) {
-                        return d.key + " have " + d.value + " geographical occurrences";
+                        return d.value + " " + d.key + " Geographical \nPresence Frequency";
                     });
             
             org_chart.width(320).height(400)
@@ -273,7 +273,7 @@
                 .colorDomain([0,0])
                 .colorAccessor(function(d, i){return 1;})
                 .title(function (d) {
-                        return d.key + " have " + d.value + " geographical occurrences";
+                        return d.value + " " + d.key + " Geographical \nPresence Frequency";
                     });
                 
             dc.dataCount("#count-info")
