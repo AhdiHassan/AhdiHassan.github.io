@@ -53,7 +53,7 @@ body {
 #menu-top a {
     color:#a94442;
     text-decoration:none;
-    font-weight:500;
+    font-weight:600;
     padding: 25px 15px 25px 15px;
     text-transform:uppercase;
 
@@ -64,7 +64,7 @@ body {
     width:100%
 }
 .menu-top-active {
-    background-color:#eeeeee;
+    background-color:#E6E6E6;
 }
 .navbar-inverse {
 background-color: #FFF;
